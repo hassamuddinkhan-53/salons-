@@ -51,6 +51,14 @@ export function Contact({ salon }: { salon: Salon }) {
                   <span>Not Available</span>
                 )}
               </li>
+              {salon.landline ? (
+                <li>
+                  Landline:{" "}
+                  <a className="underline" href={telLink(salon.landline)}>
+                    {formatDisplayPhone(salon.landline)}
+                  </a>
+                </li>
+              ) : null}
               <li>
                 WhatsApp:{" "}
                 {salon.features.whatsapp && salon.whatsapp ? (

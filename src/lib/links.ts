@@ -63,6 +63,9 @@ export function formatDisplayPhone(phone: string): string {
   if (digits.startsWith("92") && digits.length === 12) {
     return `+92 ${digits.slice(2, 5)} ${digits.slice(5)}`;
   }
+  if (digits.startsWith("92") && digits.length === 11) {
+    return `+92 ${digits.slice(2, 4)} ${digits.slice(4)}`;
+  }
   if (digits.startsWith("0") && digits.length === 11) {
     return `${digits.slice(0, 4)} ${digits.slice(4)}`;
   }

@@ -407,7 +407,9 @@
       }
     ],
     "images": {
-      "logo": null,
+      "logo": "/salons/salon-005/logo.png",
+      "logoFit": "contain",
+      "logoBackground": "light",
       "hero": "/salons/salon-005/hero.jpg",
       "gallery": [
         "/salons/salon-005/bridal-1.jpg",
@@ -535,59 +537,129 @@
     "id": "salon-006",
     "slug": "naqsh-beauty-lounge",
     "name": "Naqsh Beauty Lounge",
-    "category": "Beauty Salon",
+    "category": "Beauty Lounge",
     "city": "Rawalpindi",
-    "area": "Phase 8",
-    "address": "Shop 1, Plaza 43, Swiss Arcade, Rafi Block, Phase 8",
-    "phone": null,
-    "whatsapp": null,
+    "area": "Bahria Safari Valley, Phase 8",
+    "address": "Shop # 1, Plaza # 43 (Swiss Arcade), Rafi Block, Bahria Safari Valley, Phase 8, Bahria Town, Rawalpindi, 46220, Pakistan",
+    "phone": "923308195195",
+    "landline": "92515911828",
+    "whatsapp": "923308195195",
     "googleRating": 3.8,
     "googleReviews": 25,
     "website": null,
-    "instagram": null,
-    "facebook": null,
-    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naqsh+Beauty+Lounge+Phase+8+Rawalpindi",
+    "instagram": "https://www.instagram.com/naqshbeautylounge/",
+    "facebook": "https://www.facebook.com/Naqshbeautylounge/",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Shop+1+Plaza+43+Swiss+Arcade+Rafi+Block+Bahria+Safari+Valley+Phase+8+Rawalpindi",
     "googleReviewUrl": null,
-    "services": [],
+    "services": [
+      {
+        "name": "Hair artistry",
+        "description": "Specialized cuts, L'Oreal Extenso treatments, highlights, balayage, and Nanoplastia.",
+        "price": null
+      },
+      {
+        "name": "Skin & spa",
+        "description": "Facials, whitening care, and full-body waxing.",
+        "price": null
+      },
+      {
+        "name": "Bridal & event glam",
+        "description": "Party makeup, signature glam looks, and mehndi.",
+        "price": null
+      }
+    ],
     "images": {
-      "logo": null,
-      "hero": null,
-      "gallery": [],
-      "og": null
+      "logo": "/salons/salon-006/logo.jpg",
+      "logoFit": "contain",
+      "logoBackground": "dark",
+      "hero": "/salons/salon-006/hero.jpg",
+      "gallery": [
+        "/salons/salon-006/bridal-1.jpg",
+        "/salons/salon-006/bridal-2.jpg",
+        "/salons/salon-006/ready-01.jpg",
+        "/salons/salon-006/ready-02.jpg",
+        "/salons/salon-006/ready-03.jpg",
+        "/salons/salon-006/hair-01.jpg",
+        "/salons/salon-006/hair-02.jpg",
+        "/salons/salon-006/hair-03.jpg",
+        "/salons/salon-006/hair-04.jpg",
+        "/salons/salon-006/hair-05.jpg",
+        "/salons/salon-006/hair-06.jpg",
+        "/salons/salon-006/hours.jpg"
+      ],
+      "galleryGroups": [
+        {
+          "title": "Bridal",
+          "items": [
+            { "src": "/salons/salon-006/bridal-1.jpg", "alt": "Bridal glam look" },
+            { "src": "/salons/salon-006/bridal-2.jpg", "alt": "Bridal look" },
+            { "src": "/salons/salon-006/bridal.mp4", "alt": "Bridal look video", "kind": "video" }
+          ]
+        },
+        {
+          "title": "Ready looks",
+          "items": [
+            { "src": "/salons/salon-006/ready-01.jpg", "alt": "Ready look" },
+            { "src": "/salons/salon-006/ready-02.jpg", "alt": "Ready look" },
+            { "src": "/salons/salon-006/ready-03.jpg", "alt": "Ready look" }
+          ]
+        },
+        {
+          "title": "Hair",
+          "items": [
+            { "src": "/salons/salon-006/hair-01.jpg", "alt": "Hairstyle" },
+            { "src": "/salons/salon-006/hair-02.jpg", "alt": "Hairstyle" },
+            { "src": "/salons/salon-006/hair-03.jpg", "alt": "Hairstyle" },
+            { "src": "/salons/salon-006/hair-04.jpg", "alt": "Hairstyle" },
+            { "src": "/salons/salon-006/hair-05.jpg", "alt": "Hairstyle" },
+            { "src": "/salons/salon-006/hair-06.jpg", "alt": "Hairstyle" }
+          ]
+        }
+      ],
+      "og": "/salons/salon-006/hero.jpg"
     },
-    "openingHours": [],
-    "description": "Naqsh Beauty Lounge is a Beauty Salon in Shop 1, Plaza 43, Swiss Arcade, Rafi Block, Phase 8, Rawalpindi.",
-    "tagline": "Beauty Salon in Rawalpindi",
+    "openingHours": [
+      {
+        "day": "Monday – Sunday",
+        "hours": "11:00 AM – 9:00 PM"
+      }
+    ],
+    "description": "Naqsh Beauty Lounge is the Phase 8 branch at Shop # 1, Plaza # 43 (Swiss Arcade), Rafi Block, Bahria Safari Valley, Bahria Town, Rawalpindi. This location was formerly known as Askari Beauty Parlor & Spa.",
+    "tagline": "Phase 8 branch in Swiss Arcade, Rafi Block",
+    "highlights": [
+      "This page is for the Bahria Town Phase 8 branch only",
+      "Landline: +92 51 5911828",
+      "Open 7 days a week"
+    ],
+    "layout": "atelier",
     "theme": {
-      "primaryColor": "#7A3148",
-      "secondaryColor": "#C4A484",
+      "primaryColor": "#0D0D0D",
+      "secondaryColor": "#C6A15B",
       "accentColor": "#D4AF77",
-      "backgroundColor": "#F6EFE6",
-      "textColor": "#1C1410"
+      "backgroundColor": "#F4EDE0",
+      "textColor": "#14110C"
     },
     "features": {
       "gallery": true,
       "reviews": true,
-      "whatsapp": false,
-      "instagram": false,
-      "facebook": false,
+      "whatsapp": true,
+      "instagram": true,
+      "facebook": true,
       "website": false,
       "booking": false,
       "maps": true,
-      "phone": false,
-      "openingHours": false
+      "phone": true,
+      "openingHours": true
     },
     "status": "demo",
     "priority": "A",
-    "notes": "Phase 8 target",
+    "notes": "Phase 8 branch contacts only (0330 / 051-5911828). Askari 14 helpline numbers were not used as this page's booking numbers. Seasonal Ramadan price flyer was not added to the service menu.",
     "verification": {
-      "phoneMissing": true,
-      "whatsappMissing": true,
-      "socialMissing": true,
-      "needsManualReview": true,
-      "issues": [
-        "phone is spreadsheet error #ERROR!"
-      ]
+      "phoneMissing": false,
+      "whatsappMissing": false,
+      "socialMissing": false,
+      "needsManualReview": false,
+      "issues": []
     }
   },
   {

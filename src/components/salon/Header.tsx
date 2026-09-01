@@ -51,7 +51,9 @@ export function Header({ salon }: { salon: Salon }) {
               alt={`${salon.name} logo`}
               className={
                 images.logoFit === "contain"
-                  ? "h-12 w-auto max-h-12 max-w-[8.5rem] rounded-md bg-white object-contain p-1 ring-1 ring-black/10"
+                  ? `h-12 w-auto max-h-12 max-w-[8.5rem] rounded-md object-contain p-1 ring-1 ring-black/10 ${
+                      images.logoBackground === "dark" ? "bg-black" : "bg-white"
+                    }`
                   : "h-11 w-11 rounded-full bg-black object-cover"
               }
             />

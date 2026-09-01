@@ -20,6 +20,7 @@ export function resolveSalonImages(salon: Salon): SalonImages {
   return {
     logo: salon.images.logo || TEMPLATE_IMAGES.logo,
     logoFit: salon.images.logoFit || "cover",
+    logoBackground: salon.images.logoBackground || "light",
     hero: salon.images.hero || TEMPLATE_IMAGES.hero,
     gallery: customGallery.length > 0 ? customGallery : [...TEMPLATE_IMAGES.gallery],
     galleryGroups: salon.images.galleryGroups,

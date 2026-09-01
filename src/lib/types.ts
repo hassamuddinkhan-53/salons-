@@ -1,6 +1,7 @@
 export type SalonStatus = "demo" | "live";
 export type SalonLayout = "classic" | "atelier";
 export type LogoFit = "contain" | "cover";
+export type LogoBackground = "light" | "dark";
 
 export interface SalonTheme {
   primaryColor: string;
@@ -38,6 +39,7 @@ export interface GalleryGroup {
 export interface SalonImages {
   logo: string | null;
   logoFit?: LogoFit;
+  logoBackground?: LogoBackground;
   hero: string | null;
   gallery: string[];
   galleryGroups?: GalleryGroup[];
@@ -74,6 +76,7 @@ export interface Salon {
   area: string;
   address: string;
   phone: string | null;
+  landline?: string | null;
   whatsapp: string | null;
   googleRating: number | null;
   googleReviews: number | null;
