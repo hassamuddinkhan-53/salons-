@@ -48,7 +48,7 @@
       "classes": "/salons/salon-001/classes.png"
     },
     "openingHours": [],
-    "description": "Beauty Canvas by Shireen Salon is a Beauty Salon at Shop no 2, Ground Floor, 66 Commercial Dr, near Dr Umer Pets Clinic, Main Rafi, Phase 8 Bahria Town, Rawalpindi.",
+    "description": "Beauty Canvas by Shireen Salon is a Phase 8 beauty salon on Main Rafi Commercial, known for bridal makeup and online makeup classes with live sessions and certificates.",
     "tagline": "Beauty Salon in Rawalpindi",
     "theme": {
       "primaryColor": "#1A1A1A",
@@ -323,7 +323,7 @@
         "hours": "9:00 AM – 8:00 PM"
       }
     ],
-    "description": "Glam by Neelam is a home-based beauty parlor at House 947, Street 28, Abubakar Block, Bahria Safari Valley, Phase 8, Bahria Town, Rawalpindi. Hair, bridal makeup, facials, and grooming are offered in a private setting.",
+    "description": "Glam by Neelam is a home-based beauty parlor in Bahria Safari Valley, Phase 8. Hair, bridal makeup, facials, and grooming are offered in a private setting by appointment.",
     "tagline": "Home-based salon in Bahria Safari Valley, Phase 8",
     "bookingNote": "Walk-ins are not recommended. Please book an appointment to lock in your time slot.",
     "layout": "atelier",
@@ -493,7 +493,7 @@
         "hours": "8:00 AM – 8:00 PM"
       }
     ],
-    "description": "The Beauty Station is a women-owned beauty salon at Plaza 97, Shop 101, 1st Floor, Sector E1 Commercial, Phase 8 Bahria Town, Rawalpindi. Hair, skin, nails, lashes, bridal makeup, massage, and mehndi are offered on site.",
+    "description": "The Beauty Station is a women-owned beauty salon in Phase 8, Bahria Town. Hair, skin, nails, lashes, bridal makeup, massage, and mehndi are offered on site.",
     "tagline": "Women-owned salon in Phase 8, Bahria Town",
     "highlights": [
       "Women-owned salon",
@@ -624,11 +624,10 @@
         "hours": "11:00 AM – 9:00 PM"
       }
     ],
-    "description": "Naqsh Beauty Lounge is the Phase 8 branch at Shop # 1, Plaza # 43 (Swiss Arcade), Rafi Block, Bahria Safari Valley, Bahria Town, Rawalpindi. This location was formerly known as Askari Beauty Parlor & Spa.",
+    "description": "Naqsh Beauty Lounge is the Phase 8 branch in Swiss Arcade, Rafi Block, Bahria Safari Valley. This location was formerly known as Askari Beauty Parlor & Spa.",
     "tagline": "Phase 8 branch in Swiss Arcade, Rafi Block",
     "highlights": [
       "This page is for the Bahria Town Phase 8 branch only",
-      "Landline: +92 51 5911828",
       "Open 7 days a week"
     ],
     "layout": "atelier",

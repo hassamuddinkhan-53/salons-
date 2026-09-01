@@ -18,7 +18,7 @@ export function Services({ salon }: { salon: Salon }) {
             {salon.services.map((service) => (
               <article
                 key={service.name}
-                className="card-panel rounded-[1.5rem] p-5"
+                className="service-card card-panel rounded-[1.5rem] p-5 transition-transform duration-300 ease-out hover:-translate-y-1 hover:shadow-[0_24px_56px_-28px_rgba(28,20,16,0.38)]"
               >
                 <h3 className="serif-display text-2xl">{service.name}</h3>
                 {service.description ? (

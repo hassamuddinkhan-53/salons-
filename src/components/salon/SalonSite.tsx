@@ -10,6 +10,7 @@ import { Gallery } from "@/components/salon/Gallery";
 import { Header } from "@/components/salon/Header";
 import { Hero } from "@/components/salon/Hero";
 import { Reviews } from "@/components/salon/Reviews";
+import { ScrollReveal } from "@/components/salon/ScrollReveal";
 import { Services } from "@/components/salon/Services";
 import { StickyCta } from "@/components/salon/StickyCta";
 
@@ -39,12 +40,24 @@ export function SalonSite({ salon }: { salon: Salon }) {
       <main>
         <Hero salon={salon} />
         <div className="hairline mx-auto max-w-6xl" />
-        <About salon={salon} />
-        <Services salon={salon} />
-        <Gallery salon={salon} />
-        <Classes salon={salon} />
-        <Reviews salon={salon} />
-        <Contact salon={salon} />
+        <ScrollReveal>
+          <About salon={salon} />
+        </ScrollReveal>
+        <ScrollReveal>
+          <Services salon={salon} />
+        </ScrollReveal>
+        <ScrollReveal>
+          <Gallery salon={salon} />
+        </ScrollReveal>
+        <ScrollReveal>
+          <Classes salon={salon} />
+        </ScrollReveal>
+        <ScrollReveal>
+          <Reviews salon={salon} />
+        </ScrollReveal>
+        <ScrollReveal>
+          <Contact salon={salon} />
+        </ScrollReveal>
       </main>
       <Footer salon={salon} />
       <StickyCta salon={salon} />

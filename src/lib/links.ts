@@ -86,6 +86,29 @@ export function salonAbsoluteUrl(slug: string): string | undefined {
   return `${site}${salonPath(slug)}`;
 }
 
+export function shortLocationText(
+  area: string | null | undefined,
+  city: string | null | undefined,
+): string {
+  return [area, city].filter(Boolean).join(", ");
+}
+
+/** True when the street line already mentions area or city (skip duplicate sub-line). */
+export function addressIncludesAreaCity(
+  address: string,
+  area: string | null | undefined,
+  city: string | null | undefined,
+): boolean {
+  const lower = address.toLowerCase();
+  if (area && lower.includes(area.toLowerCase())) return true;
+  if (city && lower.includes(city.toLowerCase())) return true;
+  return false;
+}
+
+export function mapsEmbedUrl(address: string): string {
+  return `https://maps.google.com/maps?q=${encodeURIComponent(address)}&output=embed`;
+}
+
 export function getMonogram(name: string): string {
   const skip = new Set([
     "and",

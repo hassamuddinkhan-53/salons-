@@ -1,9 +1,23 @@
 import type { Salon } from "@/lib/types";
-import { formatDisplayPhone, hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
+import {
+  addressIncludesAreaCity,
+  formatDisplayPhone,
+  hasHttpUrl,
+  mapsEmbedUrl,
+  telLink,
+  toWhatsAppLink,
+} from "@/lib/links";
 
 export function Contact({ salon }: { salon: Salon }) {
   const showHours =
     salon.features.openingHours && salon.openingHours.length > 0;
+  const showAreaLine = !addressIncludesAreaCity(
+    salon.address,
+    salon.area,
+    salon.city,
+  );
+  const showWebsite =
+    salon.features.website && hasHttpUrl(salon.website);
 
   return (
     <section id="contact" className="section-pad pt-0">
@@ -21,9 +35,11 @@ export function Contact({ salon }: { salon: Salon }) {
               Address
             </h3>
             <p className="mt-2 text-lg leading-7">{salon.address}</p>
-            <p className="text-[color:var(--salon-muted)]">
-              {[salon.area, salon.city].filter(Boolean).join(", ")}
-            </p>
+            {showAreaLine ? (
+              <p className="text-[color:var(--salon-muted)]">
+                {[salon.area, salon.city].filter(Boolean).join(", ")}
+              </p>
+            ) : null}
             {salon.features.maps && hasHttpUrl(salon.googleMaps) ? (
               <a
                 href={salon.googleMaps}
@@ -74,21 +90,19 @@ export function Contact({ salon }: { salon: Salon }) {
                   <span>Not Available</span>
                 )}
               </li>
-              <li>
-                Website:{" "}
-                {salon.features.website && hasHttpUrl(salon.website) ? (
+              {showWebsite ? (
+                <li>
+                  Website:{" "}
                   <a
                     className="underline"
-                    href={salon.website}
+                    href={salon.website!}
                     target="_blank"
                     rel="noreferrer"
                   >
                     Visit website
                   </a>
-                ) : (
-                  <span>Not Available</span>
-                )}
-              </li>
+                </li>
+              ) : null}
               <li>
                 Instagram:{" "}
                 {salon.features.instagram && hasHttpUrl(salon.instagram) ? (
@@ -146,6 +160,19 @@ export function Contact({ salon }: { salon: Salon }) {
             </div>
           </article>
         </div>
+
+        {salon.features.maps ? (
+          <div className="card-panel mt-4 overflow-hidden rounded-[1.75rem]">
+            <iframe
+              title={`Map to ${salon.name}`}
+              src={mapsEmbedUrl(salon.address)}
+              className="aspect-[16/10] w-full border-0 md:aspect-[21/9]"
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              allowFullScreen
+            />
+          </div>
+        ) : null}
 
         {showHours ? (
           <article className="card-panel mt-4 rounded-[1.75rem] p-6 md:p-8">

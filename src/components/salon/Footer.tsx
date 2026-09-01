@@ -1,5 +1,5 @@
 import type { Salon } from "@/lib/types";
-import { formatDisplayPhone, hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
+import { formatDisplayPhone, hasHttpUrl, shortLocationText, telLink, toWhatsAppLink } from "@/lib/links";
 
 export function Footer({ salon }: { salon: Salon }) {
   return (
@@ -8,9 +8,7 @@ export function Footer({ salon }: { salon: Salon }) {
         <div>
           <p className="serif-display text-3xl">{salon.name}</p>
           <p className="mt-2 max-w-sm text-sm leading-6 text-[color:var(--salon-muted)]">
-            {salon.address.toLowerCase().includes(salon.city.toLowerCase())
-              ? salon.address
-              : `${salon.address}, ${salon.city}`}
+            {shortLocationText(salon.area, salon.city)}
           </p>
           {salon.status === "demo" ? (
             <p className="mt-3 max-w-md text-xs leading-5 text-[color:var(--salon-muted)]">

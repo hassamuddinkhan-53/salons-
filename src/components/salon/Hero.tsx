@@ -32,9 +32,6 @@ export function Hero({ salon }: { salon: Salon }) {
           <p className="mt-5 max-w-xl text-lg text-[color:var(--salon-muted)] md:text-xl">
             {salon.tagline || `${salon.category} in ${salon.city}`}
           </p>
-          <p className="mt-4 max-w-xl text-sm leading-6 text-[color:var(--salon-muted)] md:text-base">
-            {salon.description}
-          </p>
 
           {salon.bookingNote ? (
             <p className="mt-4 max-w-xl text-sm leading-6">
@@ -87,7 +84,7 @@ export function Hero({ salon }: { salon: Salon }) {
             <img
               src={images.hero || ""}
               alt={salon.name}
-              className="aspect-[4/5] w-full object-cover"
+              className="hero-photo aspect-[4/5] w-full object-cover"
             />
           </div>
         </div>
