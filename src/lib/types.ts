@@ -1,4 +1,6 @@
 export type SalonStatus = "demo" | "live";
+export type SalonLayout = "classic" | "atelier";
+export type LogoFit = "contain" | "cover";
 
 export interface SalonTheme {
   primaryColor: string;
@@ -22,10 +24,23 @@ export interface SalonFeatures {
   classes?: boolean;
 }
 
+export interface GalleryMedia {
+  src: string;
+  alt?: string;
+  kind?: "image" | "video";
+}
+
+export interface GalleryGroup {
+  title: string;
+  items: GalleryMedia[];
+}
+
 export interface SalonImages {
   logo: string | null;
+  logoFit?: LogoFit;
   hero: string | null;
   gallery: string[];
+  galleryGroups?: GalleryGroup[];
   og: string | null;
   reviewPhotos?: string[];
   classes?: string | null;
@@ -72,6 +87,8 @@ export interface Salon {
   openingHours: OpeningHour[];
   description: string;
   tagline: string;
+  bookingNote?: string | null;
+  layout?: SalonLayout;
   theme: SalonTheme;
   features: SalonFeatures;
   status: SalonStatus;

@@ -206,59 +206,155 @@
     "id": "salon-004",
     "slug": "glam-by-neelam",
     "name": "Glam by Neelam",
-    "category": "Beauty Salon",
+    "category": "Home-based Beauty Parlor",
     "city": "Rawalpindi",
-    "area": "Phase 8",
-    "address": "House 947, Street 28, Abu Bakr Block, Phase 8",
-    "phone": null,
-    "whatsapp": null,
+    "area": "Bahria Safari Valley, Phase 8",
+    "address": "House 947, Street 28, Abubakar Block, Bahria Safari Valley, Phase 8, Bahria Town, Rawalpindi, Pakistan",
+    "phone": "923314951010",
+    "whatsapp": "923314951010",
     "googleRating": 5,
     "googleReviews": 12,
     "website": null,
-    "instagram": null,
+    "instagram": "https://www.instagram.com/glambyneelam_/",
     "facebook": null,
-    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Glam+by+Neelam+Phase+8+Rawalpindi",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+947+Street+28+Abubakar+Block+Bahria+Safari+Valley+Phase+8+Bahria+Town+Rawalpindi",
     "googleReviewUrl": null,
-    "services": [],
+    "services": [
+      {
+        "name": "Brazilian keratin & hair masks",
+        "description": "Keratin treatments and deep masks for frizz and heat-damaged hair.",
+        "price": null
+      },
+      {
+        "name": "Hair color",
+        "description": "Ombre, balayage, fashion streaks, and roots or global color.",
+        "price": null
+      },
+      {
+        "name": "Cuts & styling",
+        "description": "Precision cuts, children's trims, blowouts, and event updos.",
+        "price": null
+      },
+      {
+        "name": "Bridal makeup",
+        "description": "Barat and Walima makeovers with a base built for photography lighting.",
+        "price": null
+      },
+      {
+        "name": "Festive & party makeup",
+        "description": "Soft glam, engagement and Nikah looks, and party makeup.",
+        "price": null
+      },
+      {
+        "name": "Facials & cleanups",
+        "description": "Multi-step facials for brightness, restoration, and pore cleansing.",
+        "price": null
+      },
+      {
+        "name": "Threading, waxing & nails",
+        "description": "Threading, waxing, manicure, and pedicure.",
+        "price": null
+      }
+    ],
     "images": {
-      "logo": null,
-      "hero": null,
-      "gallery": [],
-      "og": null
+      "logo": "/salons/salon-004/logo.png",
+      "logoFit": "contain",
+      "hero": "/salons/salon-004/barat-1.jpg",
+      "gallery": [
+        "/salons/salon-004/mehndi-1.jpg",
+        "/salons/salon-004/mehndi-2.jpg",
+        "/salons/salon-004/mehndi-3.jpg",
+        "/salons/salon-004/mehndi-4.jpg",
+        "/salons/salon-004/mehndi-5.jpg",
+        "/salons/salon-004/mehndi-6.jpg",
+        "/salons/salon-004/mehndi-7.jpg",
+        "/salons/salon-004/mehndi-8.jpg",
+        "/salons/salon-004/mehndi-look.jpg",
+        "/salons/salon-004/barat-1.jpg",
+        "/salons/salon-004/barat-2.jpg",
+        "/salons/salon-004/barat-3.jpg",
+        "/salons/salon-004/barat-4.jpg",
+        "/salons/salon-004/walima-1.jpg",
+        "/salons/salon-004/festive-1.png"
+      ],
+      "galleryGroups": [
+        {
+          "title": "Mehndi",
+          "items": [
+            { "src": "/salons/salon-004/mehndi-1.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-2.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-3.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-4.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-5.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-6.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-7.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-8.jpg", "alt": "Mehndi look" },
+            { "src": "/salons/salon-004/mehndi-look.jpg", "alt": "Mehndi bridal look" },
+            { "src": "/salons/salon-004/mehndi.mp4", "alt": "Mehndi look video", "kind": "video" }
+          ]
+        },
+        {
+          "title": "Barat",
+          "items": [
+            { "src": "/salons/salon-004/barat-1.jpg", "alt": "Barat bridal look" },
+            { "src": "/salons/salon-004/barat-2.jpg", "alt": "Barat bridal look" },
+            { "src": "/salons/salon-004/barat-3.jpg", "alt": "Barat bridal look" },
+            { "src": "/salons/salon-004/barat-4.jpg", "alt": "Barat bridal look" }
+          ]
+        },
+        {
+          "title": "Walima",
+          "items": [
+            { "src": "/salons/salon-004/walima-1.jpg", "alt": "Walima bridal look" }
+          ]
+        },
+        {
+          "title": "Festive glam",
+          "items": [
+            { "src": "/salons/salon-004/festive-1.png", "alt": "Festive makeup look" }
+          ]
+        }
+      ],
+      "og": "/salons/salon-004/barat-1.jpg"
     },
-    "openingHours": [],
-    "description": "Glam by Neelam is a Beauty Salon in House 947, Street 28, Abu Bakr Block, Phase 8, Rawalpindi.",
-    "tagline": "Beauty Salon in Rawalpindi",
+    "openingHours": [
+      {
+        "day": "Monday – Sunday",
+        "hours": "9:00 AM – 8:00 PM"
+      }
+    ],
+    "description": "Glam by Neelam is a home-based beauty parlor at House 947, Street 28, Abubakar Block, Bahria Safari Valley, Phase 8, Bahria Town, Rawalpindi. Hair, bridal makeup, facials, and grooming are offered in a private setting.",
+    "tagline": "Home-based salon in Bahria Safari Valley, Phase 8",
+    "bookingNote": "Walk-ins are not recommended. Please book an appointment to lock in your time slot.",
+    "layout": "atelier",
     "theme": {
-      "primaryColor": "#4A2C4A",
-      "secondaryColor": "#D4A5A5",
-      "accentColor": "#F0D9C8",
-      "backgroundColor": "#F6EFE6",
-      "textColor": "#1C1410"
+      "primaryColor": "#1A1A1A",
+      "secondaryColor": "#C9A4AB",
+      "accentColor": "#B76E79",
+      "backgroundColor": "#FBF7F5",
+      "textColor": "#1A1A1A"
     },
     "features": {
       "gallery": true,
       "reviews": true,
-      "whatsapp": false,
-      "instagram": false,
+      "whatsapp": true,
+      "instagram": true,
       "facebook": false,
       "website": false,
       "booking": false,
       "maps": true,
-      "phone": false,
-      "openingHours": false
+      "phone": true,
+      "openingHours": true
     },
     "status": "demo",
     "priority": "A",
-    "notes": "Phase 8 target",
+    "notes": "Sheet 5th row including header / salon-004. Personalized from provided address, phone, hours, Instagram, and photos. No official slogan. Google review screenshots were not in the drop folder.",
     "verification": {
-      "phoneMissing": true,
-      "whatsappMissing": true,
-      "socialMissing": true,
-      "needsManualReview": true,
-      "issues": [
-        "phone is spreadsheet error #ERROR!"
-      ]
+      "phoneMissing": false,
+      "whatsappMissing": false,
+      "socialMissing": false,
+      "needsManualReview": false,
+      "issues": []
     }
   },
   {

@@ -23,7 +23,11 @@ export function SalonSite({ salon }: { salon: Salon }) {
   } as CSSProperties;
 
   return (
-    <div className="salon-shell pb-16 md:pb-0" style={theme}>
+    <div
+      className="salon-shell pb-16 md:pb-0"
+      data-layout={salon.layout || "classic"}
+      style={theme}
+    >
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{

@@ -1,5 +1,5 @@
 import type { Salon } from "@/lib/types";
-import { hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
+import { formatDisplayPhone, hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
 
 export function Footer({ salon }: { salon: Salon }) {
   return (
@@ -8,7 +8,9 @@ export function Footer({ salon }: { salon: Salon }) {
         <div>
           <p className="serif-display text-3xl">{salon.name}</p>
           <p className="mt-2 max-w-sm text-sm leading-6 text-[color:var(--salon-muted)]">
-            {salon.address}, {salon.city}
+            {salon.address.toLowerCase().includes(salon.city.toLowerCase())
+              ? salon.address
+              : `${salon.address}, ${salon.city}`}
           </p>
           {salon.status === "demo" ? (
             <p className="mt-3 max-w-md text-xs leading-5 text-[color:var(--salon-muted)]">
@@ -19,7 +21,7 @@ export function Footer({ salon }: { salon: Salon }) {
         </div>
         <div className="flex flex-col gap-2 text-sm">
           {salon.features.phone && salon.phone ? (
-            <a href={telLink(salon.phone)}>{salon.phone}</a>
+            <a href={telLink(salon.phone)}>{formatDisplayPhone(salon.phone)}</a>
           ) : null}
           {salon.features.whatsapp && salon.whatsapp ? (
             <a href={toWhatsAppLink(salon.whatsapp)} target="_blank" rel="noreferrer">

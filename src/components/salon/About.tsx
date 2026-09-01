@@ -1,6 +1,11 @@
 import type { Salon } from "@/lib/types";
 
 export function About({ salon }: { salon: Salon }) {
+  const hasOwnContent =
+    salon.images.gallery.length > 0 || salon.services.length > 0;
+  const showHours =
+    salon.features.openingHours && salon.openingHours.length > 0;
+
   return (
     <section id="about" className="section-pad">
       <div className="mx-auto grid max-w-6xl gap-10 md:grid-cols-2 md:items-center">
@@ -14,7 +19,12 @@ export function About({ salon }: { salon: Salon }) {
           <p className="mt-5 max-w-xl text-base leading-7 text-[color:var(--salon-muted)]">
             {salon.description}
           </p>
-          {salon.status === "demo" ? (
+          {salon.bookingNote ? (
+            <p className="mt-4 max-w-xl text-sm leading-6">
+              {salon.bookingNote}
+            </p>
+          ) : null}
+          {salon.status === "demo" && !hasOwnContent ? (
             <p className="mt-4 max-w-xl text-sm leading-6 text-[color:var(--salon-muted)]">
               This page is a personalized demo built from publicly listed
               location details. Service menus, hours, and photos can be added
@@ -38,6 +48,18 @@ export function About({ salon }: { salon: Salon }) {
             </dt>
             <dd className="mt-1 text-lg">{salon.category}</dd>
           </div>
+          {showHours ? (
+            <div>
+              <dt className="text-xs uppercase tracking-[0.2em] text-[color:var(--salon-muted)]">
+                Hours
+              </dt>
+              {salon.openingHours.map((row) => (
+                <dd key={row.day} className="mt-1 text-lg">
+                  {row.day}: {row.hours}
+                </dd>
+              ))}
+            </div>
+          ) : null}
           {salon.googleRating != null ? (
             <div>
               <dt className="text-xs uppercase tracking-[0.2em] text-[color:var(--salon-muted)]">

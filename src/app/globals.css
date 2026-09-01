@@ -129,3 +129,32 @@ body {
 .sticky-cta {
   padding-bottom: env(safe-area-inset-bottom);
 }
+
+.salon-shell[data-layout="atelier"] {
+  --salon-muted: #6d5a61;
+}
+
+.salon-shell[data-layout="atelier"] .hero-wash {
+  background:
+    radial-gradient(
+      900px 460px at 12% -8%,
+      color-mix(in srgb, var(--salon-accent) 38%, transparent),
+      transparent 58%
+    ),
+    radial-gradient(
+      800px 380px at 100% 18%,
+      color-mix(in srgb, var(--salon-primary) 10%, transparent),
+      transparent 52%
+    ),
+    linear-gradient(180deg, #fff, var(--salon-bg));
+}
+
+.salon-shell[data-layout="atelier"] .card-panel {
+  border-color: color-mix(in srgb, var(--salon-accent) 28%, transparent);
+  box-shadow: 0 22px 48px -28px rgba(26, 26, 26, 0.35);
+}
+
+.salon-shell[data-layout="atelier"] .btn-gold {
+  background: var(--salon-accent);
+  color: #fffaf6;
+}

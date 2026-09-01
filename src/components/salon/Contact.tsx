@@ -1,5 +1,5 @@
 import type { Salon } from "@/lib/types";
-import { hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
+import { formatDisplayPhone, hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
 
 export function Contact({ salon }: { salon: Salon }) {
   const showHours =
@@ -45,7 +45,7 @@ export function Contact({ salon }: { salon: Salon }) {
                 Phone:{" "}
                 {salon.features.phone && salon.phone ? (
                   <a className="underline" href={telLink(salon.phone)}>
-                    {salon.phone}
+                    {formatDisplayPhone(salon.phone)}
                   </a>
                 ) : (
                   <span>Not Available</span>
@@ -60,7 +60,7 @@ export function Contact({ salon }: { salon: Salon }) {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    {salon.whatsapp}
+                    {formatDisplayPhone(salon.whatsapp)}
                   </a>
                 ) : (
                   <span>Not Available</span>
@@ -113,6 +113,12 @@ export function Contact({ salon }: { salon: Salon }) {
               </li>
             </ul>
 
+            {salon.bookingNote ? (
+              <p className="mt-5 text-sm leading-6 text-[color:var(--salon-muted)]">
+                {salon.bookingNote}
+              </p>
+            ) : null}
+
             <div className="mt-6 flex flex-wrap gap-3">
               {salon.features.whatsapp && salon.whatsapp ? (
                 <a
@@ -121,7 +127,7 @@ export function Contact({ salon }: { salon: Salon }) {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Chat on WhatsApp
+                  {salon.bookingNote ? "Book on WhatsApp" : "Chat on WhatsApp"}
                 </a>
               ) : null}
               {salon.features.phone && salon.phone ? (

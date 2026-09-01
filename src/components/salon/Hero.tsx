@@ -4,6 +4,7 @@ import { hasHttpUrl, telLink, toWhatsAppLink } from "@/lib/links";
 
 export function Hero({ salon }: { salon: Salon }) {
   const images = resolveSalonImages(salon);
+  const layout = salon.layout || "classic";
   const ratingLabel =
     salon.googleRating != null
       ? `${salon.googleRating}${
@@ -13,8 +14,14 @@ export function Hero({ salon }: { salon: Salon }) {
 
   return (
     <section id="top" className="hero-wash relative overflow-hidden">
-      <div className="mx-auto grid min-h-[88svh] max-w-6xl items-center gap-10 px-4 pb-24 pt-10 md:grid-cols-[1.15fr_0.85fr] md:px-6 md:pb-28 md:pt-16">
-        <div>
+      <div
+        className={`mx-auto grid min-h-[88svh] max-w-6xl items-center gap-10 px-4 pb-24 pt-10 md:px-6 md:pb-28 md:pt-16 ${
+          layout === "atelier"
+            ? "md:grid-cols-[0.9fr_1.1fr]"
+            : "md:grid-cols-[1.15fr_0.85fr]"
+        }`}
+      >
+        <div className={layout === "atelier" ? "md:order-2" : undefined}>
           <p className="mb-4 text-xs font-semibold uppercase tracking-[0.28em] text-[color:var(--salon-muted)]">
             {salon.category}
             {salon.area ? ` · ${salon.area}` : ""}
@@ -28,6 +35,12 @@ export function Hero({ salon }: { salon: Salon }) {
           <p className="mt-4 max-w-xl text-sm leading-6 text-[color:var(--salon-muted)] md:text-base">
             {salon.description}
           </p>
+
+          {salon.bookingNote ? (
+            <p className="mt-4 max-w-xl text-sm leading-6">
+              {salon.bookingNote}
+            </p>
+          ) : null}
 
           {ratingLabel ? (
             <p className="mt-5 inline-flex items-center gap-2 rounded-full border border-black/10 bg-white/50 px-3 py-1.5 text-sm">
@@ -49,7 +62,7 @@ export function Hero({ salon }: { salon: Salon }) {
                 target="_blank"
                 rel="noreferrer"
               >
-                Chat on WhatsApp
+                {salon.bookingNote ? "Book on WhatsApp" : "Chat on WhatsApp"}
               </a>
             ) : null}
             {salon.features.maps && hasHttpUrl(salon.googleMaps) ? (
@@ -68,12 +81,12 @@ export function Hero({ salon }: { salon: Salon }) {
           </div>
         </div>
 
-        <div className="relative">
+        <div className={`relative ${layout === "atelier" ? "md:order-1" : ""}`}>
           <div className="card-panel overflow-hidden rounded-[2rem]">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={images.hero || ""}
-              alt=""
+              alt={`${salon.name} bridal look`}
               className="aspect-[4/5] w-full object-cover"
             />
           </div>

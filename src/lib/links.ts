@@ -58,6 +58,17 @@ export function telLink(phone: string): string {
   return `tel:${phone.replace(/\s+/g, "")}`;
 }
 
+export function formatDisplayPhone(phone: string): string {
+  const digits = phone.replace(/\D/g, "");
+  if (digits.startsWith("92") && digits.length === 12) {
+    return `+92 ${digits.slice(2, 5)} ${digits.slice(5)}`;
+  }
+  if (digits.startsWith("0") && digits.length === 11) {
+    return `${digits.slice(0, 4)} ${digits.slice(4)}`;
+  }
+  return phone;
+}
+
 export function getSiteUrl(): string {
   return (process.env.NEXT_PUBLIC_SITE_URL || "").replace(/\/$/, "");
 }

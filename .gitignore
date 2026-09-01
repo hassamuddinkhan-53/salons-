@@ -41,6 +41,7 @@ Thumbs.db
 # local screenshots
 .tmp-screenshots
 
-# local photo drop folder (site uses public/salons/salon-001/)
+# local photo drop folders (site uses public/salons/{id}/)
 /beauty-canvas-by-shireen-salon/
+/Glam by Neelam salon/
 

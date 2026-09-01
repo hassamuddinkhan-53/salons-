@@ -19,8 +19,10 @@ export function resolveSalonImages(salon: Salon): SalonImages {
   const customGallery = salon.images.gallery.filter(Boolean);
   return {
     logo: salon.images.logo || TEMPLATE_IMAGES.logo,
+    logoFit: salon.images.logoFit || "cover",
     hero: salon.images.hero || TEMPLATE_IMAGES.hero,
     gallery: customGallery.length > 0 ? customGallery : [...TEMPLATE_IMAGES.gallery],
+    galleryGroups: salon.images.galleryGroups,
     og: salon.images.og || salon.images.hero || TEMPLATE_IMAGES.og,
     reviewPhotos: salon.images.reviewPhotos?.filter(Boolean) ?? [],
     classes: salon.images.classes || null,
