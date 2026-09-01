@@ -16,29 +16,46 @@
     "facebook": "https://www.facebook.com/p/Beauty-canvas-by-shireen-61557480071333/",
     "googleMaps": "https://www.google.com/maps/search/?api=1&query=Beauty+Canvas+by+Shireen+Salon+Phase+8+Rawalpindi",
     "googleReviewUrl": null,
-    "services": [],
+    "services": [
+      {
+        "name": "Bridal makeup",
+        "description": "Bridal looks from the salon’s own photos.",
+        "price": null
+      },
+      {
+        "name": "Makeup classes",
+        "description": "Basic online makeup classes with live sessions and a certificate.",
+        "price": null
+      }
+    ],
     "images": {
-      "logo": "/template/logo.jpg",
-      "hero": "/template/hero.jpg",
+      "logo": "/salons/salon-001/logo.jpg",
+      "hero": "/salons/salon-001/hero.jpg",
       "gallery": [
-        "/template/gallery-1.jpg",
-        "/template/gallery-2.jpg",
-        "/template/gallery-3.jpg",
-        "/template/gallery-4.jpg",
-        "/template/gallery-5.jpg",
-        "/template/gallery-6.jpg"
+        "/salons/salon-001/gallery-1.jpg",
+        "/salons/salon-001/gallery-2.jpg",
+        "/salons/salon-001/gallery-3.jpg",
+        "/salons/salon-001/gallery-4.jpg",
+        "/salons/salon-001/gallery-5.jpg",
+        "/salons/salon-001/gallery-6.jpg",
+        "/salons/salon-001/gallery-7.jpg"
       ],
-      "og": "/template/hero.jpg"
+      "og": "/salons/salon-001/hero.jpg",
+      "reviewPhotos": [
+        "/salons/salon-001/look-1.jpg",
+        "/salons/salon-001/look-2.jpg"
+      ],
+      "classes": "/salons/salon-001/classes.png"
     },
     "openingHours": [],
     "description": "Beauty Canvas by Shireen Salon is a Beauty Salon at Shop no 2, Ground Floor, 66 Commercial Dr, near Dr Umer Pets Clinic, Main Rafi, Phase 8 Bahria Town, Rawalpindi.",
     "tagline": "Beauty Salon in Rawalpindi",
     "theme": {
-      "primaryColor": "#7A3148",
-      "secondaryColor": "#C4A484",
-      "accentColor": "#D4AF77",
-      "backgroundColor": "#F6EFE6",
-      "textColor": "#1C1410"
+      "primaryColor": "#1A1A1A",
+      "secondaryColor": "#C9A227",
+      "accentColor": "#E0C36A",
+      "backgroundColor": "#F7F3EA",
+      "textColor": "#1A1A1A"
     },
     "features": {
       "gallery": true,
@@ -50,7 +67,8 @@
       "booking": false,
       "maps": true,
       "phone": false,
-      "openingHours": false
+      "openingHours": false,
+      "classes": true
     },
     "status": "demo",
     "priority": "A",

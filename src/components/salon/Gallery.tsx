@@ -13,7 +13,7 @@ export function Gallery({ salon }: { salon: Salon }) {
           Gallery
         </p>
         <h2 className="serif-display mt-3 text-4xl md:text-5xl">
-          Inside the salon
+          Gallery
         </h2>
 
         <div className="mt-8 grid grid-cols-2 gap-3 md:grid-cols-3">

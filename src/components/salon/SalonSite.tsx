@@ -2,6 +2,7 @@ import type { CSSProperties } from "react";
 import type { Salon } from "@/lib/types";
 import { localBusinessJsonLd } from "@/lib/seo";
 import { About } from "@/components/salon/About";
+import { Classes } from "@/components/salon/Classes";
 import { Contact } from "@/components/salon/Contact";
 import { DemoBanner } from "@/components/salon/DemoBanner";
 import { Footer } from "@/components/salon/Footer";
@@ -37,6 +38,7 @@ export function SalonSite({ salon }: { salon: Salon }) {
         <About salon={salon} />
         <Services salon={salon} />
         <Gallery salon={salon} />
+        <Classes salon={salon} />
         <Reviews salon={salon} />
         <Contact salon={salon} />
       </main>

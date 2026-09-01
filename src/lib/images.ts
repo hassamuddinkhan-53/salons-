@@ -21,6 +21,8 @@ export function resolveSalonImages(salon: Salon): SalonImages {
     logo: salon.images.logo || TEMPLATE_IMAGES.logo,
     hero: salon.images.hero || TEMPLATE_IMAGES.hero,
     gallery: customGallery.length > 0 ? customGallery : [...TEMPLATE_IMAGES.gallery],
-    og: salon.images.og || TEMPLATE_IMAGES.og,
+    og: salon.images.og || salon.images.hero || TEMPLATE_IMAGES.og,
+    reviewPhotos: salon.images.reviewPhotos?.filter(Boolean) ?? [],
+    classes: salon.images.classes || null,
   };
 }

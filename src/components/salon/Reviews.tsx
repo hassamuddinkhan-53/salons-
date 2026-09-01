@@ -1,4 +1,5 @@
 import type { Salon } from "@/lib/types";
+import { resolveSalonImages } from "@/lib/images";
 import { hasHttpUrl } from "@/lib/links";
 
 function stars(rating: number) {
@@ -10,6 +11,7 @@ export function Reviews({ salon }: { salon: Salon }) {
   if (!salon.features.reviews) return null;
 
   const canLeaveReview = hasHttpUrl(salon.googleReviewUrl);
+  const reviewPhotos = resolveSalonImages(salon).reviewPhotos ?? [];
 
   return (
     <section id="reviews" className="section-pad pt-0">
@@ -40,10 +42,6 @@ export function Reviews({ salon }: { salon: Salon }) {
                 ? `${salon.googleReviews} Google reviews`
                 : "Review count not available in the source data"}
             </p>
-            <p className="mt-2 max-w-lg text-sm text-[color:var(--salon-muted)]">
-              Individual review quotes are not shown because they were not
-              included in the verified lead file.
-            </p>
           </div>
 
           <div className="mt-6 md:mt-0">
@@ -58,12 +56,26 @@ export function Reviews({ salon }: { salon: Salon }) {
               </a>
             ) : (
               <p className="max-w-xs text-sm text-[color:var(--salon-muted)]">
-                A Google review link can be added in this salon&apos;s
-                configuration when a verified URL is available.
+                A Google review link can be added when a verified URL is
+                available.
               </p>
             )}
           </div>
         </div>
+
+        {reviewPhotos.length > 0 ? (
+          <div className="mt-6 grid gap-4 md:grid-cols-2">
+            {reviewPhotos.map((src) => (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                key={src}
+                src={src}
+                alt="Client look from the salon"
+                className="w-full rounded-[1.5rem] object-cover"
+              />
+            ))}
+          </div>
+        ) : null}
       </div>
     </section>
   );

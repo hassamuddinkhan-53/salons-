@@ -19,6 +19,7 @@ export interface SalonFeatures {
   maps: boolean;
   phone: boolean;
   openingHours: boolean;
+  classes?: boolean;
 }
 
 export interface SalonImages {
@@ -26,6 +27,8 @@ export interface SalonImages {
   hero: string | null;
   gallery: string[];
   og: string | null;
+  reviewPhotos?: string[];
+  classes?: string | null;
 }
 
 export interface SalonService {

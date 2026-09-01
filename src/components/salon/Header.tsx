@@ -9,6 +9,7 @@ const NAV = [
   { href: "#about", label: "About" },
   { href: "#services", label: "Services" },
   { href: "#gallery", label: "Gallery" },
+  { href: "#classes", label: "Classes" },
   { href: "#reviews", label: "Reviews" },
   { href: "#contact", label: "Contact" },
 ];
@@ -29,7 +30,7 @@ export function Header({ salon }: { salon: Salon }) {
   const items = NAV.filter((item) => {
     if (item.href === "#reviews") return salon.features.reviews;
     if (item.href === "#gallery") return salon.features.gallery;
-    if (item.href === "#services") return true;
+    if (item.href === "#classes") return Boolean(salon.features.classes);
     return true;
   });
 
@@ -48,7 +49,7 @@ export function Header({ salon }: { salon: Salon }) {
             <img
               src={images.logo}
               alt={`${salon.name} logo`}
-              className="h-10 w-10 rounded-full object-cover"
+              className="h-11 w-11 rounded-full object-cover bg-black"
             />
           ) : (
             <span
