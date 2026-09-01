@@ -361,59 +361,174 @@
     "id": "salon-005",
     "slug": "the-beauty-station",
     "name": "The Beauty Station",
-    "category": "Beauty Salon",
+    "category": "Women-owned Beauty Salon",
     "city": "Rawalpindi",
     "area": "Phase 8, Bahria Town",
-    "address": "Plaza 97, Shop 101, Sector E1, Phase 8 Bahria Town",
-    "phone": null,
-    "whatsapp": null,
+    "address": "Plaza 97, Shop 101, 1st Floor, Sector E1 Commercial, Phase 8 Bahria Town, Rawalpindi, Pakistan",
+    "phone": "923306119877",
+    "whatsapp": "923306119877",
     "googleRating": 4.7,
-    "googleReviews": 310,
+    "googleReviews": 311,
     "website": null,
-    "instagram": null,
-    "facebook": null,
-    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Beauty+Station+Phase+8+Rawalpindi",
+    "instagram": "https://www.instagram.com/thebeautystation2023/",
+    "facebook": "https://www.facebook.com/p/The-Beauty-Station-100088423916835/",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Plaza+97+Shop+101+1st+Floor+Sector+E1+Commercial+Phase+8+Bahria+Town+Rawalpindi",
     "googleReviewUrl": null,
-    "services": [],
+    "services": [
+      {
+        "name": "Haircuts & styling",
+        "description": "Haircuts, blow-drys, custom styling, and baby haircuts.",
+        "price": null
+      },
+      {
+        "name": "Keratin, rebonding & color",
+        "description": "Keratin, X-tenso, permanent rebounding, fashion highlights, and full color.",
+        "price": null
+      },
+      {
+        "name": "Facials & skin treatments",
+        "description": "Medical and professional facials, plus targeted skin treatments.",
+        "price": null
+      },
+      {
+        "name": "Nails & lash extensions",
+        "description": "Manicure, pedicure, nail art, and semi-permanent eyelash extensions.",
+        "price": null
+      },
+      {
+        "name": "Bridal & event makeup",
+        "description": "Bridal, party, model, Nikkah, engagement, and mehndi makeup.",
+        "price": null
+      },
+      {
+        "name": "Massage & mehndi",
+        "description": "Body relaxation massages and henna designs.",
+        "price": null
+      }
+    ],
     "images": {
       "logo": null,
-      "hero": null,
-      "gallery": [],
-      "og": null
+      "hero": "/salons/salon-005/hero.jpg",
+      "gallery": [
+        "/salons/salon-005/bridal-1.jpg",
+        "/salons/salon-005/look-01.png",
+        "/salons/salon-005/look-02.jpg",
+        "/salons/salon-005/look-03.png",
+        "/salons/salon-005/look-04.jpg",
+        "/salons/salon-005/look-05.jpg",
+        "/salons/salon-005/look-06.jpg",
+        "/salons/salon-005/look-07.jpg",
+        "/salons/salon-005/look-08.jpg",
+        "/salons/salon-005/look-09.jpg",
+        "/salons/salon-005/look-10.jpg",
+        "/salons/salon-005/look-11.jpg",
+        "/salons/salon-005/look-12.jpg",
+        "/salons/salon-005/look-13.jpg",
+        "/salons/salon-005/look-14.jpg",
+        "/salons/salon-005/look-15.jpg",
+        "/salons/salon-005/look-16.jpg",
+        "/salons/salon-005/look-17.jpg",
+        "/salons/salon-005/look-18.jpg",
+        "/salons/salon-005/look-19.jpg",
+        "/salons/salon-005/look-20.jpg",
+        "/salons/salon-005/look-21.jpg",
+        "/salons/salon-005/look-22.jpg",
+        "/salons/salon-005/look-23.jpg",
+        "/salons/salon-005/look-24.jpg",
+        "/salons/salon-005/look-25.jpg",
+        "/salons/salon-005/look-26.jpg",
+        "/salons/salon-005/look-27.jpg"
+      ],
+      "galleryGroups": [
+        {
+          "title": "Bridal",
+          "items": [
+            { "src": "/salons/salon-005/bridal-1.jpg", "alt": "Bridal makeup look" }
+          ]
+        },
+        {
+          "title": "Hair, makeup & salon looks",
+          "items": [
+            { "src": "/salons/salon-005/look-01.png", "alt": "Hair styling at The Beauty Station" },
+            { "src": "/salons/salon-005/look-02.jpg", "alt": "Makeup and hair look" },
+            { "src": "/salons/salon-005/look-03.png", "alt": "Fashion hair color" },
+            { "src": "/salons/salon-005/look-04.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-05.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-06.jpg", "alt": "Group hairstyling at the salon" },
+            { "src": "/salons/salon-005/look-07.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-08.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-09.jpg", "alt": "Straightened hair look" },
+            { "src": "/salons/salon-005/look-10.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-11.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-12.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-13.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-14.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-15.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-16.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-17.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-18.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-19.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-20.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-21.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-22.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-23.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-24.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-25.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-26.jpg", "alt": "Salon look" },
+            { "src": "/salons/salon-005/look-27.jpg", "alt": "Salon look" }
+          ]
+        }
+      ],
+      "og": "/salons/salon-005/hero.jpg"
     },
-    "openingHours": [],
-    "description": "The Beauty Station is a Beauty Salon in Plaza 97, Shop 101, Sector E1, Phase 8 Bahria Town, Rawalpindi.",
-    "tagline": "Beauty Salon in Rawalpindi",
+    "openingHours": [
+      {
+        "day": "Monday – Saturday",
+        "hours": "8:00 AM – 10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:00 AM – 8:00 PM"
+      }
+    ],
+    "description": "The Beauty Station is a women-owned beauty salon at Plaza 97, Shop 101, 1st Floor, Sector E1 Commercial, Phase 8 Bahria Town, Rawalpindi. Hair, skin, nails, lashes, bridal makeup, massage, and mehndi are offered on site.",
+    "tagline": "Women-owned salon in Phase 8, Bahria Town",
+    "highlights": [
+      "Women-owned salon",
+      "Child-friendly",
+      "Restroom on site",
+      "Complimentary beverages",
+      "Cash, debit cards, and credit cards"
+    ],
+    "layout": "classic",
     "theme": {
-      "primaryColor": "#3D2B1F",
-      "secondaryColor": "#C4A574",
-      "accentColor": "#E8DCC8",
-      "backgroundColor": "#F6EFE6",
-      "textColor": "#1C1410"
+      "primaryColor": "#1C1C1C",
+      "secondaryColor": "#A8A8A8",
+      "accentColor": "#C4A574",
+      "backgroundColor": "#F3F1EE",
+      "textColor": "#161616"
     },
     "features": {
       "gallery": true,
       "reviews": true,
-      "whatsapp": false,
-      "instagram": false,
-      "facebook": false,
+      "whatsapp": true,
+      "instagram": true,
+      "facebook": true,
       "website": false,
       "booking": false,
       "maps": true,
-      "phone": false,
-      "openingHours": false
+      "phone": true,
+      "openingHours": true
     },
     "status": "demo",
     "priority": "B",
-    "notes": "Strong business/review presence",
+    "notes": "Personalized from provided address, phone, hours, Instagram, Facebook, amenities, and photos. One bridal photo was omitted because it showed bank/IBAN details. No official slogan. Review quotes were not included in the source text.",
     "verification": {
-      "phoneMissing": true,
-      "whatsappMissing": true,
-      "socialMissing": true,
-      "needsManualReview": true,
-      "issues": [
-        "phone is spreadsheet error #ERROR!"
-      ]
+      "phoneMissing": false,
+      "whatsappMissing": false,
+      "socialMissing": false,
+      "needsManualReview": false,
+      "issues": []
     }
   },
   {

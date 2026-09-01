@@ -88,6 +88,7 @@ export interface Salon {
   description: string;
   tagline: string;
   bookingNote?: string | null;
+  highlights?: string[];
   layout?: SalonLayout;
   theme: SalonTheme;
   features: SalonFeatures;

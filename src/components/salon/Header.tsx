@@ -44,10 +44,10 @@ export function Header({ salon }: { salon: Salon }) {
     >
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-3 px-4 py-3 md:px-6">
         <a href="#top" className="flex min-w-0 items-center gap-3">
-          {images.logo ? (
+          {salon.images.logo ? (
             // eslint-disable-next-line @next/next/no-img-element
             <img
-              src={images.logo}
+              src={salon.images.logo}
               alt={`${salon.name} logo`}
               className={
                 images.logoFit === "contain"

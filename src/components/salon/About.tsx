@@ -24,6 +24,13 @@ export function About({ salon }: { salon: Salon }) {
               {salon.bookingNote}
             </p>
           ) : null}
+          {salon.highlights && salon.highlights.length > 0 ? (
+            <ul className="mt-4 max-w-xl list-disc space-y-1 pl-5 text-sm leading-6 text-[color:var(--salon-muted)]">
+              {salon.highlights.map((item) => (
+                <li key={item}>{item}</li>
+              ))}
+            </ul>
+          ) : null}
           {salon.status === "demo" && !hasOwnContent ? (
             <p className="mt-4 max-w-xl text-sm leading-6 text-[color:var(--salon-muted)]">
               This page is a personalized demo built from publicly listed

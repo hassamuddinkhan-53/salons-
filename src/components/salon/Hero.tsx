@@ -86,7 +86,7 @@ export function Hero({ salon }: { salon: Salon }) {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={images.hero || ""}
-              alt={`${salon.name} bridal look`}
+              alt={salon.name}
               className="aspect-[4/5] w-full object-cover"
             />
           </div>
