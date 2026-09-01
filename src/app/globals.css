@@ -1,0 +1,131 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --salon-primary: #7a3148;
+  --salon-secondary: #c4a484;
+  --salon-accent: #d4af77;
+  --salon-bg: #f6efe6;
+  --salon-text: #1c1410;
+  --salon-muted: #6b5e55;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: var(--salon-text);
+  background: var(--salon-bg);
+  font-family: var(--font-sans), system-ui, sans-serif;
+}
+
+.salon-shell {
+  --salon-primary: var(--theme-primary);
+  --salon-secondary: var(--theme-secondary);
+  --salon-accent: var(--theme-accent);
+  --salon-bg: var(--theme-bg);
+  --salon-text: var(--theme-text);
+  background: var(--salon-bg);
+  color: var(--salon-text);
+  min-height: 100svh;
+  overflow-x: hidden;
+}
+
+.serif-display {
+  font-family: var(--font-serif), Georgia, serif;
+  letter-spacing: -0.03em;
+}
+
+.hairline {
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--salon-secondary),
+    transparent
+  );
+}
+
+.btn-primary,
+.btn-ghost,
+.btn-gold {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-height: 3rem;
+  padding: 0.75rem 1.25rem;
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition:
+    transform 160ms ease,
+    background 160ms ease,
+    color 160ms ease,
+    border-color 160ms ease;
+}
+
+.btn-primary {
+  background: var(--salon-primary);
+  color: #fffaf4;
+}
+
+.btn-gold {
+  background: var(--salon-accent);
+  color: #1c1410;
+}
+
+.btn-ghost {
+  border: 1px solid color-mix(in srgb, var(--salon-text) 18%, transparent);
+  background: color-mix(in srgb, #fff 55%, transparent);
+  color: var(--salon-text);
+}
+
+.btn-primary:hover,
+.btn-gold:hover,
+.btn-ghost:hover {
+  transform: translateY(-1px);
+}
+
+.hero-wash {
+  background:
+    radial-gradient(
+      1200px 500px at 80% -10%,
+      color-mix(in srgb, var(--salon-secondary) 45%, transparent),
+      transparent 60%
+    ),
+    radial-gradient(
+      900px 420px at 0% 100%,
+      color-mix(in srgb, var(--salon-primary) 22%, transparent),
+      transparent 55%
+    ),
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--salon-bg) 88%, #fff),
+      var(--salon-bg)
+    );
+}
+
+.section-pad {
+  padding: 4.5rem 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .section-pad {
+    padding: 6rem 1.5rem;
+  }
+}
+
+.card-panel {
+  background: color-mix(in srgb, #fff 72%, var(--salon-bg));
+  border: 1px solid color-mix(in srgb, var(--salon-secondary) 35%, transparent);
+  box-shadow: 0 18px 50px -24px rgba(28, 20, 16, 0.28);
+}
+
+.sticky-cta {
+  padding-bottom: env(safe-area-inset-bottom);
+}

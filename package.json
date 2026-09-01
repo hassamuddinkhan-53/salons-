@@ -1,0 +1,30 @@
+{
+  "name": "salon-sites",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One codebase, one salon website engine, 100+ dynamic salon demo URLs.",
+  "scripts": {
+    "dev": "node -r ./scripts/fat32-fs-patch.cjs ./node_modules/next/dist/bin/next dev",
+    "build": "node -r ./scripts/fat32-fs-patch.cjs ./node_modules/next/dist/bin/next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate-salons.mjs"
+  },
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.34.0",
+    "eslint-config-next": "^15.5.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.9.2"
+  }
+}

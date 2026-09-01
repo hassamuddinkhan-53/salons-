@@ -1,0 +1,6491 @@
+[
+  {
+    "id": "salon-001",
+    "slug": "beauty-canvas-by-shireen-salon",
+    "name": "Beauty Canvas by Shireen Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 8, Bahria Town",
+    "address": "Shop no 2, Ground Floor, 66 Commercial Dr, near Dr Umer Pets Clinic, Main Rafi, Phase 8 Bahria Town, Rawalpindi, Pakistan",
+    "phone": null,
+    "whatsapp": "923285808493",
+    "googleRating": 4.9,
+    "googleReviews": 75,
+    "website": null,
+    "instagram": "https://www.instagram.com/beauty_canvas_by_shireen_salon/",
+    "facebook": "https://www.facebook.com/p/Beauty-canvas-by-shireen-61557480071333/",
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Beauty+Canvas+by+Shireen+Salon+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": "/template/logo.jpg",
+      "hero": "/template/hero.jpg",
+      "gallery": [
+        "/template/gallery-1.jpg",
+        "/template/gallery-2.jpg",
+        "/template/gallery-3.jpg",
+        "/template/gallery-4.jpg",
+        "/template/gallery-5.jpg",
+        "/template/gallery-6.jpg"
+      ],
+      "og": "/template/hero.jpg"
+    },
+    "openingHours": [],
+    "description": "Beauty Canvas by Shireen Salon is a Beauty Salon at Shop no 2, Ground Floor, 66 Commercial Dr, near Dr Umer Pets Clinic, Main Rafi, Phase 8 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": true,
+      "instagram": true,
+      "facebook": true,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": false,
+      "socialMissing": false,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "website listed as not have"
+      ]
+    }
+  },
+  {
+    "id": "salon-002",
+    "slug": "arishas",
+    "name": "Arisha's",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 8, Bahria Town",
+    "address": "Plaza 13, Basement, Main Rafi Commercial, Phase 8 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 16,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Arishas+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Arisha's is a Beauty Salon in Plaza 13, Basement, Main Rafi Commercial, Phase 8 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-003",
+    "slug": "nadias-saloon",
+    "name": "Nadia's Saloon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 8, Bahria Town",
+    "address": "Building 24, Assets Plaza, Main Rafi Commercial, Phase 8 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 3.5,
+    "googleReviews": 22,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Nadias+Saloon+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Nadia's Saloon is a Beauty Salon in Building 24, Assets Plaza, Main Rafi Commercial, Phase 8 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-004",
+    "slug": "glam-by-neelam",
+    "name": "Glam by Neelam",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 8",
+    "address": "House 947, Street 28, Abu Bakr Block, Phase 8",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 12,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Glam+by+Neelam+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Glam by Neelam is a Beauty Salon in House 947, Street 28, Abu Bakr Block, Phase 8, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-005",
+    "slug": "the-beauty-station",
+    "name": "The Beauty Station",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 8, Bahria Town",
+    "address": "Plaza 97, Shop 101, Sector E1, Phase 8 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.7,
+    "googleReviews": 310,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Beauty+Station+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "The Beauty Station is a Beauty Salon in Plaza 97, Shop 101, Sector E1, Phase 8 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "Strong business/review presence",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-006",
+    "slug": "naqsh-beauty-lounge",
+    "name": "Naqsh Beauty Lounge",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 8",
+    "address": "Shop 1, Plaza 43, Swiss Arcade, Rafi Block, Phase 8",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 3.8,
+    "googleReviews": 25,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naqsh+Beauty+Lounge+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Naqsh Beauty Lounge is a Beauty Salon in Shop 1, Plaza 43, Swiss Arcade, Rafi Block, Phase 8, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-007",
+    "slug": "honeys-beauty-salon-institute-spa",
+    "name": "Honey's Beauty Salon Institute & Spa",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Safari Valley",
+    "address": "Plaza 7, Bahria Safari Valley, Rafi Block",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 2,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Honeys+Beauty+Salon+Institute+Spa+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Honey's Beauty Salon Institute & Spa is a Beauty Salon in Plaza 7, Bahria Safari Valley, Rafi Block, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Very small review footprint",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-008",
+    "slug": "fizzas-saloon",
+    "name": "Fizza's Saloon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Safari Valley",
+    "address": "Plaza 100 Ground Shop 1, Linear Commercial Park, Bahria Safari Valley",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 3.4,
+    "googleReviews": 14,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Fizza+Saloon+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Fizza's Saloon is a Beauty Salon in Plaza 100 Ground Shop 1, Linear Commercial Park, Bahria Safari Valley, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-009",
+    "slug": "glamorous-saloon-yoga",
+    "name": "Glamorous Saloon & Yoga",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Safari Valley",
+    "address": "Lane 4, Bahria Safari Valley, Rafi Block",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.9,
+    "googleReviews": 22,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Glamorous+Saloon+Yoga+Phase+8+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Glamorous Saloon & Yoga is a Beauty Salon in Lane 4, Bahria Safari Valley, Rafi Block, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Phase 8 target",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-010",
+    "slug": "glam-street-bahria-phase-7-ladies-only",
+    "name": "Glam Street Bahria Phase 7 Ladies Only",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7, Bahria Town",
+    "address": "Park Plaza, Box Park, Bahria Food Street, Phase 7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.8,
+    "googleReviews": 873,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Glam+Street+Bahria+Phase+7+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Glam Street Bahria Phase 7 Ladies Only is a Beauty Salon in Park Plaza, Box Park, Bahria Food Street, Phase 7, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "High review count",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-011",
+    "slug": "blush-studio-luxury-makeup-and-hair",
+    "name": "Blush Studio Luxury Makeup and Hair",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7",
+    "address": "Paradise Arcade, Mini Commercial Ext-II, Phase 7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.9,
+    "googleReviews": 69,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Blush+Studio+Phase+7+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Blush Studio Luxury Makeup and Hair is a Beauty Salon in Paradise Arcade, Mini Commercial Ext-II, Phase 7, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Strong prospect",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-012",
+    "slug": "depilex-beauty-salon-bahria-town",
+    "name": "Depilex Beauty Salon Bahria Town",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7, Bahria Town",
+    "address": "Green Valley, Bahria Springs, Phase 7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.8,
+    "googleReviews": 883,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Depilex+Beauty+Salon+Bahria+Town+Phase+7",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Depilex Beauty Salon Bahria Town is a Beauty Salon in Green Valley, Bahria Springs, Phase 7, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "Established brand",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-013",
+    "slug": "faizas-beauty-salon",
+    "name": "Faiza's Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 4, Bahria Town",
+    "address": "Plaza 26, Civic Center, Phase 4 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.5,
+    "googleReviews": 259,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Faizas+Beauty+Salon+Bahria+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Faiza's Beauty Salon is a Beauty Salon in Plaza 26, Civic Center, Phase 4 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-014",
+    "slug": "moshaz-beauty-salon",
+    "name": "Moshaz Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Civic Center, Bahria Town",
+    "address": "Civic Center, Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.6,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Moshaz+Beauty+Salon+Bahria+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Moshaz Beauty Salon is a Beauty Salon in Civic Center, Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Good website-demo candidate",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "possible duplicate: Moshaz Beauty Salon vs Moshaz Salon"
+      ]
+    }
+  },
+  {
+    "id": "salon-015",
+    "slug": "headlines-beauty-clinic",
+    "name": "Headlines Beauty Clinic",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7",
+    "address": "14, Mini Commercial Ext, Street 2, Phase 7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Headlines+Beauty+Clinic+Phase+7+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Headlines Beauty Clinic is a Beauty Salon in 14, Mini Commercial Ext, Street 2, Phase 7, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-016",
+    "slug": "elixir-beauty-lounge",
+    "name": "Elixir Beauty Lounge",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7",
+    "address": "Plaza 48, Mobeen Arcade, Spring North Commercial, Phase 7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Elixir+Beauty+Lounge+Phase+7+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Elixir Beauty Lounge is a Beauty Salon in Plaza 48, Mobeen Arcade, Spring North Commercial, Phase 7, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-017",
+    "slug": "ds-salons-makeovers",
+    "name": "D's Salons & Makeovers",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7, Bahria Town",
+    "address": "DHA Bahria Expressway, Business Avenue, Phase 7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": 0,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ds+Salons+Makeovers+Phase+7+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "D's Salons & Makeovers is a Beauty Salon in DHA Bahria Expressway, Business Avenue, Phase 7, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "No reviews shown",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-018",
+    "slug": "jugnu-wasim-salon-studio",
+    "name": "Jugnu Wasim Salon & Studio",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "D-948, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Jugnu+Wasim+Salon+Studio+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Jugnu Wasim Salon & Studio is a Beauty Salon in D-948, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-019",
+    "slug": "tariq-amin-salon-academy",
+    "name": "Tariq Amin Salon & Academy",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 7, Bahria Town",
+    "address": "31st Mini Commercial, River View, Phase 7 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tariq+Amin+Salon+Academy+Phase+7+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Tariq Amin Salon & Academy is a Beauty Salon in 31st Mini Commercial, River View, Phase 7 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-020",
+    "slug": "aslam-hair-dressing-salon",
+    "name": "Aslam Hair Dressing Salon",
+    "category": "Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 4, Bahria Town",
+    "address": "Civic Center, Block 10, Phase 4 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Aslam+Hair+Dressing+Salon+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Aslam Hair Dressing Salon is a Salon in Civic Center, Block 10, Phase 4 Bahria Town, Rawalpindi.",
+    "tagline": "Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-021",
+    "slug": "divine-salon-spa-ladies-only",
+    "name": "Divine Salon & Spa Ladies Only",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Airport Housing Society",
+    "address": "Street 11, Sector 4, Block B, Airport Housing Society",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Divine+Salon+Spa+Ladies+Only+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Divine Salon & Spa Ladies Only is a Beauty Salon in Street 11, Sector 4, Block B, Airport Housing Society, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-022",
+    "slug": "ishas-beauty-salon-academy",
+    "name": "Isha's Beauty Salon & Academy",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "F-131",
+    "address": "House F-131, Street 7, Scheme III, Chaklala",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ishas+Beauty+Salon+Academy+Chaklala+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Isha's Beauty Salon & Academy is a Beauty Salon in House F-131, Street 7, Scheme III, Chaklala, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-023",
+    "slug": "jeena-n-jiyas-beauty-salon",
+    "name": "Jeena n Jiya's Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Chaklala Scheme III",
+    "address": "Street 21-A, Chaklala Scheme III",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Jeena+Jiyas+Beauty+Salon+Chaklala+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Jeena n Jiya's Beauty Salon is a Beauty Salon in Street 21-A, Chaklala Scheme III, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-024",
+    "slug": "ridas-beauty-salon",
+    "name": "Ridas Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "Shop 7, United Plaza, Commercial Market, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ridas+Beauty+Salon+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Ridas Beauty Salon is a Beauty Salon in Shop 7, United Plaza, Commercial Market, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-025",
+    "slug": "roylis-salon-studio-academy",
+    "name": "Royli's Salon Studio & Academy",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Chaklala Scheme 3",
+    "address": "Plot 27, Main Plaza, Imran Khan Avenue, Chaklala Scheme 3",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Roylis+Salon+Studio+Academy+Chaklala+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Royli's Salon Studio & Academy is a Beauty Salon in Plot 27, Main Plaza, Imran Khan Avenue, Chaklala Scheme 3, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "Established salon",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-026",
+    "slug": "seemis-salon-studio",
+    "name": "Seemi's Salon & Studio",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "D-721, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Seemis+Salon+Studio+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Seemi's Salon & Studio is a Beauty Salon in D-721, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-027",
+    "slug": "shazs-beauty-salon",
+    "name": "Shaz's Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "The Mall",
+    "address": "Pearl Continental Hotel, The Mall",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Shazs+Beauty+Salon+Pearl+Continental+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Shaz's Beauty Salon is a Beauty Salon in Pearl Continental Hotel, The Mall, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-028",
+    "slug": "sobias-salon-studio-zarpash",
+    "name": "Sobia's Salon & Studio Zarpash",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Wah Cantt",
+    "address": "WSSO Building, Jinnah Avenue, Wah Cantt",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sobias+Salon+Studio+Zarpash+Wah+Cantt",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sobia's Salon & Studio Zarpash is a Beauty Salon in WSSO Building, Jinnah Avenue, Wah Cantt, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-029",
+    "slug": "womens-own-beauty-salon-aerobics-center",
+    "name": "Women's Own Beauty Salon & Aerobics Center",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Lalazar Colony",
+    "address": "230/8 Tulsa Road, Lalazar Colony",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Womens+Own+Beauty+Salon+Lalazar+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Women's Own Beauty Salon & Aerobics Center is a Beauty Salon in 230/8 Tulsa Road, Lalazar Colony, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-030",
+    "slug": "beauty-spot",
+    "name": "Beauty Spot",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "House 357, Block F, 6th Road, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": 0,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Beauty+Spot+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Beauty Spot is a Beauty Salon in House 357, Block F, 6th Road, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-031",
+    "slug": "hoor-beauty-parlour",
+    "name": "Hoor Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Tench Bhatta",
+    "address": "Near Dispensary Ground, Sadat Market, Tench Bhatta",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": 0,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hoor+Beauty+Parlour+Tench+Bhatta+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Hoor Beauty Parlour is a Beauty Parlour in Near Dispensary Ground, Sadat Market, Tench Bhatta, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-032",
+    "slug": "the-makeup-lounge-by-zoniya",
+    "name": "The MakeUp Lounge by Zoniya",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Chaklala Scheme III",
+    "address": "House 379, Street 15, Chaklala Scheme III",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Makeup+Lounge+Zoniya+Chaklala+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "The MakeUp Lounge by Zoniya is a Beauty Salon in House 379, Street 15, Chaklala Scheme III, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-033",
+    "slug": "zarqas-beauty-parlour",
+    "name": "Zarqas Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "House 495, Block D, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Zarqas+Beauty+Parlour+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Zarqas Beauty Parlour is a Beauty Parlour in House 495, Block D, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "possible duplicate: Zarqas Beauty Parlour vs Zarqa's Beauty Parlour"
+      ]
+    }
+  },
+  {
+    "id": "salon-034",
+    "slug": "noor-beauty-parlour",
+    "name": "Noor Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Babhra Bazar",
+    "address": "Office N-525, Nishtar Road, Babhra Bazar",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Noor+Beauty+Parlour+Babhra+Bazar+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Noor Beauty Parlour is a Beauty Parlour in Office N-525, Nishtar Road, Babhra Bazar, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-035",
+    "slug": "zaib-beauty-lines",
+    "name": "Zaib Beauty Lines",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "KRL Road",
+    "address": "Fatima Manzil, Opp KRL Cricket Stadium, KRL Road",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Zaib+Beauty+Lines+KRL+Road+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Zaib Beauty Lines is a Beauty Salon in Fatima Manzil, Opp KRL Cricket Stadium, KRL Road, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-036",
+    "slug": "nikhar-beauty-parlour",
+    "name": "Nikhar Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "D-6/1, Main 6th Road, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 3,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Nikhar+Beauty+Parlour+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Nikhar Beauty Parlour is a Beauty Parlour in D-6/1, Main 6th Road, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-037",
+    "slug": "the-sparsh-salon",
+    "name": "The Sparsh Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Airport Housing Society",
+    "address": "House 249, Street 3, Sector 1, Airport Housing Society",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Sparsh+Salon+Airport+Housing+Society+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "The Sparsh Salon is a Beauty Salon in House 249, Street 3, Sector 1, Airport Housing Society, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-038",
+    "slug": "mehak-ladies-beauty-parlour",
+    "name": "Mehak Ladies Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "113-E, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mehak+Ladies+Beauty+Parlour+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Mehak Ladies Beauty Parlour is a Beauty Parlour in 113-E, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-039",
+    "slug": "sundrah-bridals",
+    "name": "Sundrah Bridals",
+    "category": "Bridal / Beauty",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "B-1350, Main 6th Road, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sundrah+Bridals+Satellite+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sundrah Bridals is a Bridal / Beauty in B-1350, Main 6th Road, Satellite Town, Rawalpindi.",
+    "tagline": "Bridal / Beauty in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-040",
+    "slug": "shuaa-beauty-parlour-spa",
+    "name": "Shuaa Beauty Parlour & Spa",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "D-843, 5th Road, Commercial Market, Satellite Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Shuaa+Beauty+Parlour+Spa+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Shuaa Beauty Parlour & Spa is a Beauty Parlour in D-843, 5th Road, Commercial Market, Satellite Town, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-041",
+    "slug": "vanity-beauty-clinic-institute",
+    "name": "Vanity Beauty Clinic & Institute",
+    "category": "Beauty Clinic",
+    "city": "Rawalpindi",
+    "area": "Chaklala Scheme III",
+    "address": "House 313, Street 14, Chaklala Scheme III",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Vanity+Beauty+Clinic+Institute+Chaklala+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Vanity Beauty Clinic & Institute is a Beauty Clinic in House 313, Street 14, Chaklala Scheme III, Rawalpindi.",
+    "tagline": "Beauty Clinic in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-042",
+    "slug": "zaibaish-herbal-salon-studio-spa",
+    "name": "Zaibaish Herbal Salon Studio & Spa",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "KRL Road",
+    "address": "Fatima Manzil, Opp KRL Cricket Stadium, KRL Road",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Zaibaish+Herbal+Salon+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Zaibaish Herbal Salon Studio & Spa is a Beauty Salon in Fatima Manzil, Opp KRL Cricket Stadium, KRL Road, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-043",
+    "slug": "zarqas-beauty-parlour-lalazar",
+    "name": "Zarqa's Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Lalazar",
+    "address": "House 2, Lane 6, Mian Tulsa Road, Lalazar",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Zarqas+Beauty+Parlour+Lalazar+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Zarqa's Beauty Parlour is a Beauty Parlour in House 2, Lane 6, Mian Tulsa Road, Lalazar, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty",
+        "possible duplicate: Zarqas Beauty Parlour vs Zarqa's Beauty Parlour"
+      ]
+    }
+  },
+  {
+    "id": "salon-044",
+    "slug": "rida-beauty-parlour-fitness-centre",
+    "name": "Rida Beauty Parlour & Fitness Centre",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "G-50",
+    "address": "G-50-B, Panorama Centre, Double Road",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Rida+Beauty+Parlour+Fitness+Centre+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Rida Beauty Parlour & Fitness Centre is a Beauty Parlour in G-50-B, Panorama Centre, Double Road, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-045",
+    "slug": "harrys-signature-saloon",
+    "name": "Harry's Signature Saloon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "New Lalazar",
+    "address": "Adiala Road, Khawaja Corporation, New Lalazar",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4,
+    "googleReviews": 48,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Harrys+Signature+Saloon+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Harry's Signature Saloon is a Beauty Salon in Adiala Road, Khawaja Corporation, New Lalazar, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-046",
+    "slug": "makeup-launch-salon-ladies-salon",
+    "name": "Makeup Launch Salon Ladies Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Harley Street",
+    "address": "House 38A, Harley Street",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.6,
+    "googleReviews": 45,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Makeup+Launch+Salon+Harley+Street+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Makeup Launch Salon Ladies Salon is a Beauty Salon in House 38A, Harley Street, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-047",
+    "slug": "new-look-beauty-salon",
+    "name": "New Look Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Chamanzar Colony",
+    "address": "Chamanzar Colony",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 1,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=New+Look+Beauty+Salon+Chamanzar+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "New Look Beauty Salon is a Beauty Salon in Chamanzar Colony, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-048",
+    "slug": "almas-ladies-saloon",
+    "name": "Almas Ladies Saloon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Gulshan Abad",
+    "address": "Sector 1, Gulshan Abad",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.5,
+    "googleReviews": 4,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Almas+Ladies+Saloon+Gulshan+Abad+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Almas Ladies Saloon is a Beauty Salon in Sector 1, Gulshan Abad, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-049",
+    "slug": "women-zone",
+    "name": "Women Zone",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Rawalpindi",
+    "address": "Rawalpindi",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 4,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Women+Zone+Beauty+Salon+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Women Zone is a Beauty Salon in Rawalpindi, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-050",
+    "slug": "sonias-beauty-salon-ladies-gym",
+    "name": "Sonia's Beauty Salon & Ladies Gym",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "B-Block Satellite Town, Sarfaraz Road",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.5,
+    "googleReviews": 6,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sonias+Beauty+Salon+Ladies+Gym+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sonia's Beauty Salon & Ladies Gym is a Beauty Salon in B-Block Satellite Town, Sarfaraz Road, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-051",
+    "slug": "abheeha-beauty-parlour",
+    "name": "Abheeha Beauty Parlour",
+    "category": "Beauty Parlour",
+    "city": "Rawalpindi",
+    "area": "Imambara Mohalla",
+    "address": "Imambara Mohalla",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 3,
+    "googleReviews": 1,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Abheeha+Beauty+Parlour+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Abheeha Beauty Parlour is a Beauty Parlour in Imambara Mohalla, Rawalpindi.",
+    "tagline": "Beauty Parlour in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-052",
+    "slug": "women-beauty-saloon",
+    "name": "Women Beauty Saloon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Rawalpindi",
+    "address": "Rawalpindi",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 3.5,
+    "googleReviews": 26,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Women+Beauty+Saloon+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Women Beauty Saloon is a Beauty Salon in Rawalpindi, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-053",
+    "slug": "maheens-beauty-parlour",
+    "name": "Maheen's Beauty Parlour",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Satellite Town",
+    "address": "Block B, Satellite Town Commercial Market, Rehmanabad",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": 0,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Maheens+Beauty+Parlour+Rehmanabad+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Maheen's Beauty Parlour is a Beauty Salon in Block B, Satellite Town Commercial Market, Rehmanabad, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-054",
+    "slug": "beauty-parlour-shakrial",
+    "name": "Beauty Parlour",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Shakrial",
+    "address": "Shakrial, Lane 3",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": 0,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Beauty+Parlour+Shakrial+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Beauty Parlour is a Beauty Salon in Shakrial, Lane 3, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Generic listing; verify identity",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "whatsapp column empty",
+        "generic listing; verify business identity",
+        "spreadsheet note: Generic listing; verify identity"
+      ]
+    }
+  },
+  {
+    "id": "salon-055",
+    "slug": "beauty-parlour-wazir-town",
+    "name": "Beauty Parlour",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Wazir Town",
+    "address": "Wazir Town, Railway Scheme Chaklala",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": 0,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Beauty+Parlour+Wazir+Town+Chaklala+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Beauty Parlour is a Beauty Salon in Wazir Town, Railway Scheme Chaklala, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Generic listing; verify identity",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "whatsapp column empty",
+        "generic listing; verify business identity",
+        "spreadsheet note: Generic listing; verify identity"
+      ]
+    }
+  },
+  {
+    "id": "salon-056",
+    "slug": "la-belle-salon-and-studio",
+    "name": "La Belle Salon and Studio",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Wah Cantt",
+    "address": "Lala Rukh, Wah Cantt",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 2,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=La+Belle+Salon+Studio+Wah+Cantt",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "La Belle Salon and Studio is a Beauty Salon in Lala Rukh, Wah Cantt, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-057",
+    "slug": "house-of-salons-bahria-town-ladies",
+    "name": "House of Salons Bahria Town Ladies",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Town",
+    "address": "Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.7,
+    "googleReviews": 259,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Salons+Bahria+Town+Ladies",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "House of Salons Bahria Town Ladies is a Beauty Salon in Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "Established brand",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-058",
+    "slug": "house-of-salons-bahria-town-phase-4-ladies",
+    "name": "House of Salons Bahria Town Phase 4 Ladies",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 4, Bahria Town",
+    "address": "Civic Centre, Phase 4 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Salons+Phase+4+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "House of Salons Bahria Town Phase 4 Ladies is a Beauty Salon in Civic Centre, Phase 4 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-059",
+    "slug": "the-spa-ladies-salon",
+    "name": "The Spa Ladies Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Phase 2, Bahria Town",
+    "address": "Safari Villas 3, Phase 2 Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Spa+Ladies+Salon+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "The Spa Ladies Salon is a Beauty Salon in Safari Villas 3, Phase 2 Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-060",
+    "slug": "ummaraz-salon-academy",
+    "name": "Ummaraz Salon & Academy",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Food Street",
+    "address": "Intellectual Village, Bahria Food Street",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.5,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ummaraz+Salon+Academy+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Ummaraz Salon & Academy is a Beauty Salon in Intellectual Village, Bahria Food Street, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-061",
+    "slug": "magic-mirror-beauty-salon",
+    "name": "Magic Mirror Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Civic Center, Bahria Town",
+    "address": "Civic Center, Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Magic+Mirror+Beauty+Salon+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Magic Mirror Beauty Salon is a Beauty Salon in Civic Center, Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-062",
+    "slug": "moshaz-salon",
+    "name": "Moshaz Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Civic Center, Bahria Town",
+    "address": "Civic Center, Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.6,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Moshaz+Salon+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Moshaz Salon is a Beauty Salon in Civic Center, Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "possible duplicate: Moshaz Beauty Salon vs Moshaz Salon"
+      ]
+    }
+  },
+  {
+    "id": "salon-063",
+    "slug": "natasha-bridal-studio-beauty-salon",
+    "name": "Natasha Bridal Studio & Beauty Salon",
+    "category": "Bridal / Beauty",
+    "city": "Islamabad",
+    "area": "Ghouri Town",
+    "address": "Ghouri Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Natasha+Bridal+Studio+Beauty+Salon+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Natasha Bridal Studio & Beauty Salon is a Bridal / Beauty in Ghouri Town, Islamabad.",
+    "tagline": "Bridal / Beauty in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-064",
+    "slug": "nabila-salon",
+    "name": "Nabila Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "E-7",
+    "address": "Plot 5, Street 14, Shaheen Market, E-7",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Nabila+Salon+E7+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Nabila Salon is a Beauty Salon in Plot 5, Street 14, Shaheen Market, E-7, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-065",
+    "slug": "naheeds-beauty-lounge",
+    "name": "Naheed's Beauty Lounge",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "G-10 Markaz",
+    "address": "Shop 9-A, Park View Plaza, G-10 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naheeds+Beauty+Lounge+G10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Naheed's Beauty Lounge is a Beauty Salon in Shop 9-A, Park View Plaza, G-10 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet"
+      ]
+    }
+  },
+  {
+    "id": "salon-066",
+    "slug": "allenora-annies-signature-salons-studio",
+    "name": "Alle'nora Annie's Signature Salons & Studio",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-7 Markaz",
+    "address": "Union Gold Mall, Jinnah Super, F-7 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Allenora+Annies+Signature+Salon+F7+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Alle'nora Annie's Signature Salons & Studio is a Beauty Salon in Union Gold Mall, Jinnah Super, F-7 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-067",
+    "slug": "curves-club-salon",
+    "name": "Curves Club Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "E-11/4",
+    "address": "Lower Ground, Salam Heights, E-11/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Curves+Club+Salon+E11+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Curves Club Salon is a Beauty Salon in Lower Ground, Salam Heights, E-11/4, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-068",
+    "slug": "dejas-beauty-salon",
+    "name": "Deja's Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "I-10 Markaz",
+    "address": "Office 10, Pervaiz Plaza, I-10 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Dejas+Beauty+Salon+I10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Deja's Beauty Salon is a Beauty Salon in Office 10, Pervaiz Plaza, I-10 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-069",
+    "slug": "diva-salon-spa",
+    "name": "Diva Salon & Spa",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-8/1",
+    "address": "Basement 1, Allah-Wali Market, Street 43, F-8/1",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Diva+Salon+Spa+F8+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Diva Salon & Spa is a Beauty Salon in Basement 1, Allah-Wali Market, Street 43, F-8/1, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-070",
+    "slug": "divino-ladies-beauty-salon",
+    "name": "Divino Ladies Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "E-11/4",
+    "address": "House 49, Street 5, E-11/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Divino+Ladies+Beauty+Salon+E11+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Divino Ladies Beauty Salon is a Beauty Salon in House 49, Street 5, E-11/4, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-071",
+    "slug": "faizas-beauty-salon-islamabad",
+    "name": "Faiza's Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "G-10 Markaz",
+    "address": "AAA Plaza, Bela Road, G-10 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Faizas+Beauty+Salon+G10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Faiza's Beauty Salon is a Beauty Salon in AAA Plaza, Bela Road, G-10 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-072",
+    "slug": "feme-makeup-studio-salon",
+    "name": "FEME Makeup Studio & Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-6",
+    "address": "Abraj Center, Super Market, F-6",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=FEME+Makeup+Studio+Salon+F6+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "FEME Makeup Studio & Salon is a Beauty Salon in Abraj Center, Super Market, F-6, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-073",
+    "slug": "geeros-salon-spa",
+    "name": "Geero's Salon & Spa",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "E-9",
+    "address": "PAF Base, E-9",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Geeros+Salon+Spa+E9+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Geero's Salon & Spa is a Beauty Salon in PAF Base, E-9, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-074",
+    "slug": "infinity-salon",
+    "name": "Infinity Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-11 Markaz",
+    "address": "Bizzon Plaza, F-11 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Infinity+Salon+F11+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Infinity Salon is a Beauty Salon in Bizzon Plaza, F-11 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-075",
+    "slug": "jugnu-wasim-salon-studio-islamabad",
+    "name": "Jugnu Wasim Salon & Studio",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-7 Markaz",
+    "address": "Bhittai Road, F-7 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Jugnu+Wasim+Salon+Studio+F7+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Jugnu Wasim Salon & Studio is a Beauty Salon in Bhittai Road, F-7 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-076",
+    "slug": "mehdi-hassan-hair-salon",
+    "name": "Mehdi Hassan Hair Salon",
+    "category": "Salon",
+    "city": "Islamabad",
+    "area": "F-8 Markaz",
+    "address": "Al-Babar Center, F-8 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mehdi+Hassan+Hair+Salon+F8+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Mehdi Hassan Hair Salon is a Salon in Al-Babar Center, F-8 Markaz, Islamabad.",
+    "tagline": "Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-077",
+    "slug": "naila-beauty-salon",
+    "name": "Naila Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-10 Markaz",
+    "address": "Park Towers, F-10 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naila+Beauty+Salon+F10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Naila Beauty Salon is a Beauty Salon in Park Towers, F-10 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-078",
+    "slug": "natashas-beauty-salon-spa",
+    "name": "Natasha's Beauty Salon & Spa",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "E-9",
+    "address": "Near National Defense University, E-9",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Natashas+Beauty+Salon+Spa+E9+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Natasha's Beauty Salon & Spa is a Beauty Salon in Near National Defense University, E-9, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    }
+  },
+  {
+    "id": "salon-079",
+    "slug": "new-hollywood-hair-salon",
+    "name": "New Hollywood Hair Salon",
+    "category": "Salon",
+    "city": "Islamabad",
+    "area": "F-7/2",
+    "address": "Rana Market, F-7/2",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=New+Hollywood+Hair+Salon+F7+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "New Hollywood Hair Salon is a Salon in Rana Market, F-7/2, Islamabad.",
+    "tagline": "Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-080",
+    "slug": "roylis-salon-studio-academy-islamabad",
+    "name": "Royli's Salon Studio & Academy",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-10/2",
+    "address": "Plot 3, Street 11-A, Idrees Market, F-10/2",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Roylis+Salon+Studio+Academy+F10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Royli's Salon Studio & Academy is a Beauty Salon in Plot 3, Street 11-A, Idrees Market, F-10/2, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-081",
+    "slug": "s-s-beauty-lounge",
+    "name": "S & S Beauty Lounge",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "PWD Road",
+    "address": "Abu Bakar Plaza, Main PWD Road",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=S+S+Beauty+Lounge+PWD+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "S & S Beauty Lounge is a Beauty Salon in Abu Bakar Plaza, Main PWD Road, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-082",
+    "slug": "sadaf-farhan-bridal-studio-salon",
+    "name": "Sadaf Farhan Bridal Studio & Salon",
+    "category": "Bridal / Beauty",
+    "city": "Islamabad",
+    "area": "F-11/3",
+    "address": "Street 48, Raja Market, F-11/3",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sadaf+Farhan+Bridal+Studio+Salon+F11+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sadaf Farhan Bridal Studio & Salon is a Bridal / Beauty in Street 48, Raja Market, F-11/3, Islamabad.",
+    "tagline": "Bridal / Beauty in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-083",
+    "slug": "salon-designers",
+    "name": "Salon Designers",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "G-15/F-15",
+    "address": "GT Road, near Khayaban-e-Kashmir, G-15/F-15",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Salon+Designers+G15+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Salon Designers is a Beauty Salon in GT Road, near Khayaban-e-Kashmir, G-15/F-15, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-084",
+    "slug": "saras-beauty-salon",
+    "name": "Sara's Beauty Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-8/1",
+    "address": "House 5-A, Street 36, F-8/1",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Saras+Beauty+Salon+F8+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sara's Beauty Salon is a Beauty Salon in House 5-A, Street 36, F-8/1, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-085",
+    "slug": "scissors-ladies-beauty-salon-aerobics-center",
+    "name": "Scissors Ladies Beauty Salon & Aerobics Center",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-10/4",
+    "address": "House 249-B, Street 52, F-10/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Scissors+Ladies+Beauty+Salon+F10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Scissors Ladies Beauty Salon & Aerobics Center is a Beauty Salon in House 249-B, Street 52, F-10/4, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-086",
+    "slug": "seemis-salon-studio-islamabad",
+    "name": "Seemi's Salon & Studio",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-10/4",
+    "address": "277, Main Double Road, F-10/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Seemis+Salon+Studio+F10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Seemi's Salon & Studio is a Beauty Salon in 277, Main Double Road, F-10/4, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-087",
+    "slug": "simrans-salon",
+    "name": "Simrans Salon",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "G-9/4",
+    "address": "House 1125, Neelum Road, G-9/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Simrans+Salon+G9+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Simrans Salon is a Beauty Salon in House 1125, Neelum Road, G-9/4, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-088",
+    "slug": "sobia-aamir-bridal-lounge-salon",
+    "name": "Sobia Aamir Bridal Lounge & Salon",
+    "category": "Bridal / Beauty",
+    "city": "Islamabad",
+    "area": "F-7 Markaz",
+    "address": "Bangash Plaza, Bhittai Road, F-7 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sobia+Aamir+Bridal+Lounge+F7+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sobia Aamir Bridal Lounge & Salon is a Bridal / Beauty in Bangash Plaza, Bhittai Road, F-7 Markaz, Islamabad.",
+    "tagline": "Bridal / Beauty in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-089",
+    "slug": "sobias-salon-studio-zarpash-islamabad",
+    "name": "Sobia's Salon & Studio Zarpash",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-7/1",
+    "address": "House 1, Street 29, Parveen Shakir Road, F-7/1",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sobias+Salon+Studio+Zarpash+F7+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Sobia's Salon & Studio Zarpash is a Beauty Salon in House 1, Street 29, Parveen Shakir Road, F-7/1, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-090",
+    "slug": "studio-t-salon-spa-institute",
+    "name": "Studio T Salon Spa & Institute",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-8/4",
+    "address": "Flat 1, Block 3, Najam Market, F-8/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Studio+T+Salon+Spa+Institute+F8+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Studio T Salon Spa & Institute is a Beauty Salon in Flat 1, Block 3, Najam Market, F-8/4, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-091",
+    "slug": "tariq-amin-salon-academy-islamabad",
+    "name": "Tariq Amin Salon & Academy",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "Blue Area",
+    "address": "Beverly Center, Jinnah Avenue, Blue Area",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tariq+Amin+Salon+Academy+Blue+Area+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Tariq Amin Salon & Academy is a Beauty Salon in Beverly Center, Jinnah Avenue, Blue Area, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-092",
+    "slug": "the-grooming-lounge",
+    "name": "The Grooming Lounge",
+    "category": "Salon",
+    "city": "Islamabad",
+    "area": "G-6/4",
+    "address": "House 4, Street 84, G-6/4",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=The+Grooming+Lounge+G6+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "The Grooming Lounge is a Salon in House 4, Street 84, G-6/4, Islamabad.",
+    "tagline": "Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-093",
+    "slug": "tjs-salon",
+    "name": "TJ's Salon",
+    "category": "Salon",
+    "city": "Islamabad",
+    "area": "G-5 Markaz",
+    "address": "Sitara Plaza, Diplomatic Enclave, G-5 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=TJs+Salon+G5+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "TJ's Salon is a Salon in Sitara Plaza, Diplomatic Enclave, G-5 Markaz, Islamabad.",
+    "tagline": "Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-094",
+    "slug": "house-of-salons-f-7-female",
+    "name": "House of Salons F-7 Female",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-7 Markaz",
+    "address": "F-7 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Salons+F7+Female+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "House of Salons F-7 Female is a Beauty Salon in F-7 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-095",
+    "slug": "house-of-salons-f-10",
+    "name": "House of Salons F-10",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-10 Markaz",
+    "address": "F-10 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Salons+F10+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "House of Salons F-10 is a Beauty Salon in F-10 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-096",
+    "slug": "house-of-salons-f-11",
+    "name": "House of Salons F-11",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "F-11 Markaz",
+    "address": "F-11 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Salons+F11+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "House of Salons F-11 is a Beauty Salon in F-11 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-097",
+    "slug": "house-of-salons-g-11",
+    "name": "House of Salons G-11",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "G-11 Markaz",
+    "address": "G-11 Markaz",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=House+of+Salons+G11+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "House of Salons G-11 is a Beauty Salon in G-11 Markaz, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-098",
+    "slug": "lilax-beauty-clinic-institute",
+    "name": "Lilax Beauty Clinic & Institute",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "PWD Housing Society",
+    "address": "Block C, Main Double Road, PWD Housing Society",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lilax+Beauty+Clinic+Institute+PWD+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Lilax Beauty Clinic & Institute is a Beauty Salon in Block C, Main Double Road, PWD Housing Society, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-099",
+    "slug": "dr-ferozes-clear-skin-laser-clinic",
+    "name": "Dr Feroze's Clear Skin Laser Clinic",
+    "category": "Beauty / Clinic",
+    "city": "Rawalpindi",
+    "area": "Civic Centre",
+    "address": "29-D, Civic Centre",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Dr+Ferozes+Clear+Skin+Laser+Clinic+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Dr Feroze's Clear Skin Laser Clinic is a Beauty / Clinic in 29-D, Civic Centre, Rawalpindi.",
+    "tagline": "Beauty / Clinic in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "Clinic rather than salon",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-100",
+    "slug": "raha-beauty-salon-islamabad",
+    "name": "Raha Beauty Salon Islamabad",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "PWD Housing Society",
+    "address": "Main PWD Road, PWD Housing Society",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.2,
+    "googleReviews": 49,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Raha+Beauty+Salon+PWD+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Raha Beauty Salon Islamabad is a Beauty Salon in Main PWD Road, PWD Housing Society, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-101",
+    "slug": "hsa-hair-n-makeup-studio",
+    "name": "HsA Hair n Makeup Studio",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "PWD",
+    "address": "PWD Main Double Road, Sector A",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 5,
+    "googleReviews": 8,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=HsA+Hair+Makeup+Studio+PWD+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "HsA Hair n Makeup Studio is a Beauty Salon in PWD Main Double Road, Sector A, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Verify phone",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    }
+  },
+  {
+    "id": "salon-102",
+    "slug": "reforma-ladies-beauty-salon-studio",
+    "name": "Reforma Ladies Beauty Salon & Studio",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Town",
+    "address": "Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Reforma+Ladies+Beauty+Salon+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Reforma Ladies Beauty Salon & Studio is a Beauty Salon in Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-103",
+    "slug": "hair-art-salon-spa",
+    "name": "Hair ART Salon & SPA",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Town",
+    "address": "Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hair+ART+Salon+Spa+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Hair ART Salon & SPA is a Beauty Salon in Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-104",
+    "slug": "noor-e-ain",
+    "name": "Noor E Ain",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Town",
+    "address": "Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Noor+E+Ain+Beauty+Salon+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Noor E Ain is a Beauty Salon in Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-105",
+    "slug": "tgs-bahria-enclave",
+    "name": "TGS Bahria Enclave",
+    "category": "Beauty Salon",
+    "city": "Islamabad",
+    "area": "Bahria Enclave",
+    "address": "Bahria Enclave",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=TGS+Bahria+Enclave+Salon+Islamabad",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "TGS Bahria Enclave is a Beauty Salon in Bahria Enclave, Islamabad.",
+    "tagline": "Beauty Salon in Islamabad",
+    "theme": {
+      "primaryColor": "#3D2B1F",
+      "secondaryColor": "#C4A574",
+      "accentColor": "#E8DCC8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "B",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-106",
+    "slug": "zulftarash-salon",
+    "name": "Zulftarash Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Town",
+    "address": "Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Zulftarash+Salon+Bahria+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Zulftarash Salon is a Beauty Salon in Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#7A3148",
+      "secondaryColor": "#C4A484",
+      "accentColor": "#D4AF77",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-107",
+    "slug": "bitanas-salon",
+    "name": "Bitana's Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Bahria Town",
+    "address": "Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bitanas+Salon+Bahria+Town+Rawalpindi",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Bitana's Salon is a Beauty Salon in Bahria Town, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#5C1A2E",
+      "secondaryColor": "#C9A86C",
+      "accentColor": "#E8D5A3",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  },
+  {
+    "id": "salon-108",
+    "slug": "beauty-hut-salon",
+    "name": "Beauty Hut Salon",
+    "category": "Beauty Salon",
+    "city": "Rawalpindi",
+    "area": "Lalazar",
+    "address": "House 1B, Lane 2, Main Tulsa Road, Lalazar",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": null,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://maps.app.goo.gl/bfQGUfeJCj58mZKA9",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Beauty Hut Salon is a Beauty Salon in House 1B, Lane 2, Main Tulsa Road, Lalazar, Rawalpindi.",
+    "tagline": "Beauty Salon in Rawalpindi",
+    "theme": {
+      "primaryColor": "#2F4A3C",
+      "secondaryColor": "#B8A078",
+      "accentColor": "#E6D5B8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": false,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "Public listing includes phone, WhatsApp and social links",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Facebook but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    }
+  },
+  {
+    "id": "salon-109",
+    "slug": "hot-stone-spa-saloon",
+    "name": "Hot Stone Spa & Saloon",
+    "category": "Spa / Beauty",
+    "city": "Rawalpindi",
+    "area": "Phase 4, Bahria Town",
+    "address": "Phase 4 Civic Center, Bahria Town",
+    "phone": null,
+    "whatsapp": null,
+    "googleRating": 4.6,
+    "googleReviews": null,
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hot+Stone+Spa+Saloon+Phase+4+Bahria+Town",
+    "googleReviewUrl": null,
+    "services": [],
+    "images": {
+      "logo": null,
+      "hero": null,
+      "gallery": [],
+      "og": null
+    },
+    "openingHours": [],
+    "description": "Hot Stone Spa & Saloon is a Spa / Beauty in Phase 4 Civic Center, Bahria Town, Rawalpindi.",
+    "tagline": "Spa / Beauty in Rawalpindi",
+    "theme": {
+      "primaryColor": "#4A2C4A",
+      "secondaryColor": "#D4A5A5",
+      "accentColor": "#F0D9C8",
+      "backgroundColor": "#F6EFE6",
+      "textColor": "#1C1410"
+    },
+    "features": {
+      "gallery": true,
+      "reviews": true,
+      "whatsapp": false,
+      "instagram": false,
+      "facebook": false,
+      "website": false,
+      "booking": false,
+      "maps": true,
+      "phone": false,
+      "openingHours": false
+    },
+    "status": "demo",
+    "priority": "A",
+    "notes": "",
+    "verification": {
+      "phoneMissing": true,
+      "whatsappMissing": true,
+      "socialMissing": true,
+      "needsManualReview": true,
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  }
+]

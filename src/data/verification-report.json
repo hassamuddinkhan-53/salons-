@@ -1,0 +1,1183 @@
+{
+  "totalSalons": 109,
+  "duplicateIds": [],
+  "duplicateSlugs": [],
+  "slugCollisionsResolved": [
+    "slug collision on 'zarqas-beauty-parlour' resolved with area -> zarqas-beauty-parlour-lalazar",
+    "generic listing 'Beauty Parlour' suffixed with area -> beauty-parlour-shakrial",
+    "generic listing 'Beauty Parlour' suffixed with area -> beauty-parlour-wazir-town",
+    "slug collision on 'faizas-beauty-salon' resolved with city -> faizas-beauty-salon-islamabad",
+    "slug collision on 'jugnu-wasim-salon-studio' resolved with city -> jugnu-wasim-salon-studio-islamabad",
+    "slug collision on 'roylis-salon-studio-academy' resolved with city -> roylis-salon-studio-academy-islamabad",
+    "slug collision on 'seemis-salon-studio' resolved with city -> seemis-salon-studio-islamabad",
+    "slug collision on 'sobias-salon-studio-zarpash' resolved with city -> sobias-salon-studio-zarpash-islamabad",
+    "slug collision on 'tariq-amin-salon-academy' resolved with city -> tariq-amin-salon-academy-islamabad"
+  ],
+  "possibleDuplicateBusinesses": [
+    {
+      "kind": "similar name, same city — confirm whether these are the same business",
+      "records": [
+        {
+          "id": "salon-014",
+          "slug": "moshaz-beauty-salon",
+          "name": "Moshaz Beauty Salon",
+          "address": "Civic Center, Bahria Town",
+          "city": "Rawalpindi"
+        },
+        {
+          "id": "salon-062",
+          "slug": "moshaz-salon",
+          "name": "Moshaz Salon",
+          "address": "Civic Center, Bahria Town",
+          "city": "Rawalpindi"
+        }
+      ]
+    },
+    {
+      "kind": "similar name, same city — confirm whether these are the same business",
+      "records": [
+        {
+          "id": "salon-033",
+          "slug": "zarqas-beauty-parlour",
+          "name": "Zarqas Beauty Parlour",
+          "address": "House 495, Block D, Satellite Town",
+          "city": "Rawalpindi"
+        },
+        {
+          "id": "salon-043",
+          "slug": "zarqas-beauty-parlour-lalazar",
+          "name": "Zarqa's Beauty Parlour",
+          "address": "House 2, Lane 6, Mian Tulsa Road, Lalazar",
+          "city": "Rawalpindi"
+        }
+      ]
+    }
+  ],
+  "relatedBranches": [
+    {
+      "brand": "Faiza's Beauty Salon",
+      "locations": [
+        {
+          "id": "salon-013",
+          "slug": "faizas-beauty-salon",
+          "name": "Faiza's Beauty Salon",
+          "city": "Rawalpindi",
+          "area": "Phase 4, Bahria Town",
+          "address": "Plaza 26, Civic Center, Phase 4 Bahria Town"
+        },
+        {
+          "id": "salon-071",
+          "slug": "faizas-beauty-salon-islamabad",
+          "name": "Faiza's Beauty Salon",
+          "city": "Islamabad",
+          "area": "G-10 Markaz",
+          "address": "AAA Plaza, Bela Road, G-10 Markaz"
+        }
+      ]
+    },
+    {
+      "brand": "Jugnu Wasim Salon & Studio",
+      "locations": [
+        {
+          "id": "salon-018",
+          "slug": "jugnu-wasim-salon-studio",
+          "name": "Jugnu Wasim Salon & Studio",
+          "city": "Rawalpindi",
+          "area": "Satellite Town",
+          "address": "D-948, Satellite Town"
+        },
+        {
+          "id": "salon-075",
+          "slug": "jugnu-wasim-salon-studio-islamabad",
+          "name": "Jugnu Wasim Salon & Studio",
+          "city": "Islamabad",
+          "area": "F-7 Markaz",
+          "address": "Bhittai Road, F-7 Markaz"
+        }
+      ]
+    },
+    {
+      "brand": "Tariq Amin Salon & Academy",
+      "locations": [
+        {
+          "id": "salon-019",
+          "slug": "tariq-amin-salon-academy",
+          "name": "Tariq Amin Salon & Academy",
+          "city": "Rawalpindi",
+          "area": "Phase 7, Bahria Town",
+          "address": "31st Mini Commercial, River View, Phase 7 Bahria Town"
+        },
+        {
+          "id": "salon-091",
+          "slug": "tariq-amin-salon-academy-islamabad",
+          "name": "Tariq Amin Salon & Academy",
+          "city": "Islamabad",
+          "area": "Blue Area",
+          "address": "Beverly Center, Jinnah Avenue, Blue Area"
+        }
+      ]
+    },
+    {
+      "brand": "Royli's Salon Studio & Academy",
+      "locations": [
+        {
+          "id": "salon-025",
+          "slug": "roylis-salon-studio-academy",
+          "name": "Royli's Salon Studio & Academy",
+          "city": "Rawalpindi",
+          "area": "Chaklala Scheme 3",
+          "address": "Plot 27, Main Plaza, Imran Khan Avenue, Chaklala Scheme 3"
+        },
+        {
+          "id": "salon-080",
+          "slug": "roylis-salon-studio-academy-islamabad",
+          "name": "Royli's Salon Studio & Academy",
+          "city": "Islamabad",
+          "area": "F-10/2",
+          "address": "Plot 3, Street 11-A, Idrees Market, F-10/2"
+        }
+      ]
+    },
+    {
+      "brand": "Seemi's Salon & Studio",
+      "locations": [
+        {
+          "id": "salon-026",
+          "slug": "seemis-salon-studio",
+          "name": "Seemi's Salon & Studio",
+          "city": "Rawalpindi",
+          "area": "Satellite Town",
+          "address": "D-721, Satellite Town"
+        },
+        {
+          "id": "salon-086",
+          "slug": "seemis-salon-studio-islamabad",
+          "name": "Seemi's Salon & Studio",
+          "city": "Islamabad",
+          "area": "F-10/4",
+          "address": "277, Main Double Road, F-10/4"
+        }
+      ]
+    },
+    {
+      "brand": "Sobia's Salon & Studio Zarpash",
+      "locations": [
+        {
+          "id": "salon-028",
+          "slug": "sobias-salon-studio-zarpash",
+          "name": "Sobia's Salon & Studio Zarpash",
+          "city": "Rawalpindi",
+          "area": "Wah Cantt",
+          "address": "WSSO Building, Jinnah Avenue, Wah Cantt"
+        },
+        {
+          "id": "salon-089",
+          "slug": "sobias-salon-studio-zarpash-islamabad",
+          "name": "Sobia's Salon & Studio Zarpash",
+          "city": "Islamabad",
+          "area": "F-7/1",
+          "address": "House 1, Street 29, Parveen Shakir Road, F-7/1"
+        }
+      ]
+    },
+    {
+      "brand": "House of Salons",
+      "locations": [
+        {
+          "id": "salon-057",
+          "slug": "house-of-salons-bahria-town-ladies",
+          "name": "House of Salons Bahria Town Ladies",
+          "city": "Rawalpindi",
+          "area": "Bahria Town",
+          "address": "Bahria Town"
+        },
+        {
+          "id": "salon-058",
+          "slug": "house-of-salons-bahria-town-phase-4-ladies",
+          "name": "House of Salons Bahria Town Phase 4 Ladies",
+          "city": "Rawalpindi",
+          "area": "Phase 4, Bahria Town",
+          "address": "Civic Centre, Phase 4 Bahria Town"
+        },
+        {
+          "id": "salon-094",
+          "slug": "house-of-salons-f-7-female",
+          "name": "House of Salons F-7 Female",
+          "city": "Islamabad",
+          "area": "F-7 Markaz",
+          "address": "F-7 Markaz"
+        },
+        {
+          "id": "salon-095",
+          "slug": "house-of-salons-f-10",
+          "name": "House of Salons F-10",
+          "city": "Islamabad",
+          "area": "F-10 Markaz",
+          "address": "F-10 Markaz"
+        },
+        {
+          "id": "salon-096",
+          "slug": "house-of-salons-f-11",
+          "name": "House of Salons F-11",
+          "city": "Islamabad",
+          "area": "F-11 Markaz",
+          "address": "F-11 Markaz"
+        },
+        {
+          "id": "salon-097",
+          "slug": "house-of-salons-g-11",
+          "name": "House of Salons G-11",
+          "city": "Islamabad",
+          "area": "G-11 Markaz",
+          "address": "G-11 Markaz"
+        }
+      ]
+    }
+  ],
+  "genericListings": [
+    {
+      "id": "salon-054",
+      "slug": "beauty-parlour-shakrial",
+      "name": "Beauty Parlour",
+      "address": "Shakrial, Lane 3",
+      "city": "Rawalpindi"
+    },
+    {
+      "id": "salon-055",
+      "slug": "beauty-parlour-wazir-town",
+      "name": "Beauty Parlour",
+      "address": "Wazir Town, Railway Scheme Chaklala",
+      "city": "Rawalpindi"
+    }
+  ],
+  "phoneMissingCount": 109,
+  "phoneSpreadsheetErrorCount": 98,
+  "whatsappUnusableYesCount": 7,
+  "socialUnusableYesCount": 9,
+  "missingRequired": [],
+  "malformedUrls": [],
+  "recordsNeedingManualVerification": [
+    {
+      "id": "salon-001",
+      "slug": "beauty-canvas-by-shireen-salon",
+      "name": "Beauty Canvas by Shireen Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-002",
+      "slug": "arishas",
+      "name": "Arisha's",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-003",
+      "slug": "nadias-saloon",
+      "name": "Nadia's Saloon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-004",
+      "slug": "glam-by-neelam",
+      "name": "Glam by Neelam",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-005",
+      "slug": "the-beauty-station",
+      "name": "The Beauty Station",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-006",
+      "slug": "naqsh-beauty-lounge",
+      "name": "Naqsh Beauty Lounge",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-007",
+      "slug": "honeys-beauty-salon-institute-spa",
+      "name": "Honey's Beauty Salon Institute & Spa",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-008",
+      "slug": "fizzas-saloon",
+      "name": "Fizza's Saloon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-009",
+      "slug": "glamorous-saloon-yoga",
+      "name": "Glamorous Saloon & Yoga",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-010",
+      "slug": "glam-street-bahria-phase-7-ladies-only",
+      "name": "Glam Street Bahria Phase 7 Ladies Only",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-011",
+      "slug": "blush-studio-luxury-makeup-and-hair",
+      "name": "Blush Studio Luxury Makeup and Hair",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-012",
+      "slug": "depilex-beauty-salon-bahria-town",
+      "name": "Depilex Beauty Salon Bahria Town",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-013",
+      "slug": "faizas-beauty-salon",
+      "name": "Faiza's Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-014",
+      "slug": "moshaz-beauty-salon",
+      "name": "Moshaz Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "possible duplicate: Moshaz Beauty Salon vs Moshaz Salon"
+      ]
+    },
+    {
+      "id": "salon-015",
+      "slug": "headlines-beauty-clinic",
+      "name": "Headlines Beauty Clinic",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-016",
+      "slug": "elixir-beauty-lounge",
+      "name": "Elixir Beauty Lounge",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-017",
+      "slug": "ds-salons-makeovers",
+      "name": "D's Salons & Makeovers",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-018",
+      "slug": "jugnu-wasim-salon-studio",
+      "name": "Jugnu Wasim Salon & Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-019",
+      "slug": "tariq-amin-salon-academy",
+      "name": "Tariq Amin Salon & Academy",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-020",
+      "slug": "aslam-hair-dressing-salon",
+      "name": "Aslam Hair Dressing Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-021",
+      "slug": "divine-salon-spa-ladies-only",
+      "name": "Divine Salon & Spa Ladies Only",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-022",
+      "slug": "ishas-beauty-salon-academy",
+      "name": "Isha's Beauty Salon & Academy",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-023",
+      "slug": "jeena-n-jiyas-beauty-salon",
+      "name": "Jeena n Jiya's Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-024",
+      "slug": "ridas-beauty-salon",
+      "name": "Ridas Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-025",
+      "slug": "roylis-salon-studio-academy",
+      "name": "Royli's Salon Studio & Academy",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-026",
+      "slug": "seemis-salon-studio",
+      "name": "Seemi's Salon & Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-027",
+      "slug": "shazs-beauty-salon",
+      "name": "Shaz's Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-028",
+      "slug": "sobias-salon-studio-zarpash",
+      "name": "Sobia's Salon & Studio Zarpash",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-029",
+      "slug": "womens-own-beauty-salon-aerobics-center",
+      "name": "Women's Own Beauty Salon & Aerobics Center",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-030",
+      "slug": "beauty-spot",
+      "name": "Beauty Spot",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-031",
+      "slug": "hoor-beauty-parlour",
+      "name": "Hoor Beauty Parlour",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-032",
+      "slug": "the-makeup-lounge-by-zoniya",
+      "name": "The MakeUp Lounge by Zoniya",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-033",
+      "slug": "zarqas-beauty-parlour",
+      "name": "Zarqas Beauty Parlour",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "possible duplicate: Zarqas Beauty Parlour vs Zarqa's Beauty Parlour"
+      ]
+    },
+    {
+      "id": "salon-034",
+      "slug": "noor-beauty-parlour",
+      "name": "Noor Beauty Parlour",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-035",
+      "slug": "zaib-beauty-lines",
+      "name": "Zaib Beauty Lines",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-036",
+      "slug": "nikhar-beauty-parlour",
+      "name": "Nikhar Beauty Parlour",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-037",
+      "slug": "the-sparsh-salon",
+      "name": "The Sparsh Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-038",
+      "slug": "mehak-ladies-beauty-parlour",
+      "name": "Mehak Ladies Beauty Parlour",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-039",
+      "slug": "sundrah-bridals",
+      "name": "Sundrah Bridals",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-040",
+      "slug": "shuaa-beauty-parlour-spa",
+      "name": "Shuaa Beauty Parlour & Spa",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-041",
+      "slug": "vanity-beauty-clinic-institute",
+      "name": "Vanity Beauty Clinic & Institute",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-042",
+      "slug": "zaibaish-herbal-salon-studio-spa",
+      "name": "Zaibaish Herbal Salon Studio & Spa",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-043",
+      "slug": "zarqas-beauty-parlour-lalazar",
+      "name": "Zarqa's Beauty Parlour",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty",
+        "possible duplicate: Zarqas Beauty Parlour vs Zarqa's Beauty Parlour"
+      ]
+    },
+    {
+      "id": "salon-044",
+      "slug": "rida-beauty-parlour-fitness-centre",
+      "name": "Rida Beauty Parlour & Fitness Centre",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-045",
+      "slug": "harrys-signature-saloon",
+      "name": "Harry's Signature Saloon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-046",
+      "slug": "makeup-launch-salon-ladies-salon",
+      "name": "Makeup Launch Salon Ladies Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-047",
+      "slug": "new-look-beauty-salon",
+      "name": "New Look Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-048",
+      "slug": "almas-ladies-saloon",
+      "name": "Almas Ladies Saloon",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-049",
+      "slug": "women-zone",
+      "name": "Women Zone",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-050",
+      "slug": "sonias-beauty-salon-ladies-gym",
+      "name": "Sonia's Beauty Salon & Ladies Gym",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-051",
+      "slug": "abheeha-beauty-parlour",
+      "name": "Abheeha Beauty Parlour",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-052",
+      "slug": "women-beauty-saloon",
+      "name": "Women Beauty Saloon",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-053",
+      "slug": "maheens-beauty-parlour",
+      "name": "Maheen's Beauty Parlour",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-054",
+      "slug": "beauty-parlour-shakrial",
+      "name": "Beauty Parlour",
+      "issues": [
+        "phone not found in spreadsheet",
+        "whatsapp column empty",
+        "generic listing; verify business identity",
+        "spreadsheet note: Generic listing; verify identity"
+      ]
+    },
+    {
+      "id": "salon-055",
+      "slug": "beauty-parlour-wazir-town",
+      "name": "Beauty Parlour",
+      "issues": [
+        "phone not found in spreadsheet",
+        "whatsapp column empty",
+        "generic listing; verify business identity",
+        "spreadsheet note: Generic listing; verify identity"
+      ]
+    },
+    {
+      "id": "salon-056",
+      "slug": "la-belle-salon-and-studio",
+      "name": "La Belle Salon and Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-057",
+      "slug": "house-of-salons-bahria-town-ladies",
+      "name": "House of Salons Bahria Town Ladies",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-058",
+      "slug": "house-of-salons-bahria-town-phase-4-ladies",
+      "name": "House of Salons Bahria Town Phase 4 Ladies",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-059",
+      "slug": "the-spa-ladies-salon",
+      "name": "The Spa Ladies Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-060",
+      "slug": "ummaraz-salon-academy",
+      "name": "Ummaraz Salon & Academy",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-061",
+      "slug": "magic-mirror-beauty-salon",
+      "name": "Magic Mirror Beauty Salon",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-062",
+      "slug": "moshaz-salon",
+      "name": "Moshaz Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "possible duplicate: Moshaz Beauty Salon vs Moshaz Salon"
+      ]
+    },
+    {
+      "id": "salon-063",
+      "slug": "natasha-bridal-studio-beauty-salon",
+      "name": "Natasha Bridal Studio & Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-064",
+      "slug": "nabila-salon",
+      "name": "Nabila Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-065",
+      "slug": "naheeds-beauty-lounge",
+      "name": "Naheed's Beauty Lounge",
+      "issues": [
+        "phone not found in spreadsheet"
+      ]
+    },
+    {
+      "id": "salon-066",
+      "slug": "allenora-annies-signature-salons-studio",
+      "name": "Alle'nora Annie's Signature Salons & Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-067",
+      "slug": "curves-club-salon",
+      "name": "Curves Club Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-068",
+      "slug": "dejas-beauty-salon",
+      "name": "Deja's Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-069",
+      "slug": "diva-salon-spa",
+      "name": "Diva Salon & Spa",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-070",
+      "slug": "divino-ladies-beauty-salon",
+      "name": "Divino Ladies Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-071",
+      "slug": "faizas-beauty-salon-islamabad",
+      "name": "Faiza's Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-072",
+      "slug": "feme-makeup-studio-salon",
+      "name": "FEME Makeup Studio & Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-073",
+      "slug": "geeros-salon-spa",
+      "name": "Geero's Salon & Spa",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-074",
+      "slug": "infinity-salon",
+      "name": "Infinity Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-075",
+      "slug": "jugnu-wasim-salon-studio-islamabad",
+      "name": "Jugnu Wasim Salon & Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-076",
+      "slug": "mehdi-hassan-hair-salon",
+      "name": "Mehdi Hassan Hair Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-077",
+      "slug": "naila-beauty-salon",
+      "name": "Naila Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-078",
+      "slug": "natashas-beauty-salon-spa",
+      "name": "Natasha's Beauty Salon & Spa",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "whatsapp column empty"
+      ]
+    },
+    {
+      "id": "salon-079",
+      "slug": "new-hollywood-hair-salon",
+      "name": "New Hollywood Hair Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-080",
+      "slug": "roylis-salon-studio-academy-islamabad",
+      "name": "Royli's Salon Studio & Academy",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-081",
+      "slug": "s-s-beauty-lounge",
+      "name": "S & S Beauty Lounge",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-082",
+      "slug": "sadaf-farhan-bridal-studio-salon",
+      "name": "Sadaf Farhan Bridal Studio & Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-083",
+      "slug": "salon-designers",
+      "name": "Salon Designers",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-084",
+      "slug": "saras-beauty-salon",
+      "name": "Sara's Beauty Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-085",
+      "slug": "scissors-ladies-beauty-salon-aerobics-center",
+      "name": "Scissors Ladies Beauty Salon & Aerobics Center",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-086",
+      "slug": "seemis-salon-studio-islamabad",
+      "name": "Seemi's Salon & Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-087",
+      "slug": "simrans-salon",
+      "name": "Simrans Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-088",
+      "slug": "sobia-aamir-bridal-lounge-salon",
+      "name": "Sobia Aamir Bridal Lounge & Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-089",
+      "slug": "sobias-salon-studio-zarpash-islamabad",
+      "name": "Sobia's Salon & Studio Zarpash",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-090",
+      "slug": "studio-t-salon-spa-institute",
+      "name": "Studio T Salon Spa & Institute",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-091",
+      "slug": "tariq-amin-salon-academy-islamabad",
+      "name": "Tariq Amin Salon & Academy",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-092",
+      "slug": "the-grooming-lounge",
+      "name": "The Grooming Lounge",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-093",
+      "slug": "tjs-salon",
+      "name": "TJ's Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-094",
+      "slug": "house-of-salons-f-7-female",
+      "name": "House of Salons F-7 Female",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-095",
+      "slug": "house-of-salons-f-10",
+      "name": "House of Salons F-10",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-096",
+      "slug": "house-of-salons-f-11",
+      "name": "House of Salons F-11",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-097",
+      "slug": "house-of-salons-g-11",
+      "name": "House of Salons G-11",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have a website but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-098",
+      "slug": "lilax-beauty-clinic-institute",
+      "name": "Lilax Beauty Clinic & Institute",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-099",
+      "slug": "dr-ferozes-clear-skin-laser-clinic",
+      "name": "Dr Feroze's Clear Skin Laser Clinic",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-100",
+      "slug": "raha-beauty-salon-islamabad",
+      "name": "Raha Beauty Salon Islamabad",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-101",
+      "slug": "hsa-hair-n-makeup-studio",
+      "name": "HsA Hair n Makeup Studio",
+      "issues": [
+        "phone not found in spreadsheet",
+        "spreadsheet note: Verify phone"
+      ]
+    },
+    {
+      "id": "salon-102",
+      "slug": "reforma-ladies-beauty-salon-studio",
+      "name": "Reforma Ladies Beauty Salon & Studio",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-103",
+      "slug": "hair-art-salon-spa",
+      "name": "Hair ART Salon & SPA",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-104",
+      "slug": "noor-e-ain",
+      "name": "Noor E Ain",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-105",
+      "slug": "tgs-bahria-enclave",
+      "name": "TGS Bahria Enclave",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-106",
+      "slug": "zulftarash-salon",
+      "name": "Zulftarash Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-107",
+      "slug": "bitanas-salon",
+      "name": "Bitana's Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    },
+    {
+      "id": "salon-108",
+      "slug": "beauty-hut-salon",
+      "name": "Beauty Hut Salon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!",
+        "business appears to have Instagram but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have Facebook but the actual URL is missing (spreadsheet value is Yes)",
+        "business appears to have WhatsApp but the actual number is missing (spreadsheet value is Yes)"
+      ]
+    },
+    {
+      "id": "salon-109",
+      "slug": "hot-stone-spa-saloon",
+      "name": "Hot Stone Spa & Saloon",
+      "issues": [
+        "phone is spreadsheet error #ERROR!"
+      ]
+    }
+  ]
+}
